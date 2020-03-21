@@ -1,4 +1,4 @@
-logoText = "Zzo" # Logo text that appears in the site navigation bar.
+logoText = "Park Sangkil" # Logo text that appears in the site navigation bar.
 logoType = "short" # long, short -> short: squre shape includes logo text, long: rectangle shape not includes logo text
 logo = true # Logo that appears in the site navigation bar.
 description = "The Zzo theme for Hugo example site." # for SEO
@@ -40,7 +40,7 @@ talksPaginate = 8 # items per page
 talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
-myname = "zzossig"
+myname = "Park SangKil"
 email = "zzossig@gmail.com"
 whoami = "Web Developer"
 bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
