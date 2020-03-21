@@ -9,7 +9,6 @@ hugo -t zzo
 cd public
 # Add changes to git.
 git add .
-git add .
 
 # Commit changes.
 msg="rebuilding site `date`"
@@ -26,7 +25,6 @@ cd ..
 
 
 # blog 저장소 Commit & Push
-git add .
 git add .
 
 msg="rebuilding site `date`"
