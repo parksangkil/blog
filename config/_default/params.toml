@@ -132,9 +132,9 @@ commento = false
 [socialOptions] # if set, social icons will show up.
   email = "mailto:your@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = "https://www.facebook.com/psk2343"
+  twitter = "https://twitter.com/sangkilpark"
+  github = "https://github.com/kidmam"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
