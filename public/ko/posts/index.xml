@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Park Sangkil Tech Blog</title>
-    <link>https://parksangkil.github.io/ko/</link>
-    <description>Recent content on Park Sangkil Tech Blog</description>
+    <title>Posts on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/posts/</link>
+    <description>Recent content in Posts on Park Sangkil Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
@@ -16,31 +16,10 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 21 Mar 2020 17:47:18 +0900</lastBuildDate>
     
-        <atom:link href="https://parksangkil.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://parksangkil.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
-      
-      
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
 
       
       <item>
