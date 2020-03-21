@@ -1,9 +1,9 @@
-[en]
-  title = "Park Sangkil Tech Blog"
-  languageName = "English"
-  weight = 2
-
 [ko]
   title = "Park Sangkil Tech Blog"
   languageName = "한국어"
   weight = 1
+
+[en]
+  title = "Park Sangkil Tech Blog"
+  languageName = "English"
+  weight = 2
