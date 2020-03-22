@@ -135,3 +135,7 @@ Code Convention
  Study & Training
  -----------------
   1. Learning Golang one day - https://github.com/go-training/training
+
+Algorithms & Data Structures
+ -----------------
+ 1. Algorithms Implemented in GoLang - https://github.com/TheAlgorithms/Go
