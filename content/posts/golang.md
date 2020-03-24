@@ -143,3 +143,5 @@ Algorithms & Data Structures
   기타
  -----------------
  1. Golang과 Lambda를 활용한 알림 서비스 개발기 - https://y0c.github.io/2019/08/25/go-lambda-develop-notify-service/
+
+ 2. golang - sync.Map - https://jacking75.github.io/go_syncmap/
