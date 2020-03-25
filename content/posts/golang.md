@@ -136,9 +136,11 @@ Code Convention
  -----------------
  1. Learning Golang one day - https://github.com/go-training/training
 
-Algorithms & Data Structures
+ Algorithms & Data Structures & Design Pattern
  -----------------
  1. Algorithms Implemented in GoLang - https://github.com/TheAlgorithms/Go
+
+ 2. https://github.com/senghoo/golang-design-pattern
 
   기타
  -----------------
