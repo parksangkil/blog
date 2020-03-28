@@ -93,7 +93,11 @@ Libraries
  23. Automatically generate RESTful API documentation with Swagger 2.0 for Go. - https://github.com/swaggo/swag
 
  24. A comprehensive error handling library for Go - https://github.com/joomcode/errorx
- 
+
+ 25. Structured, pluggable logging for Go. - https://github.com/sirupsen/logrus
+
+ 26. Go HTTP router library for AWS API Gateway-invoked Lambda Functions - https://github.com/aquasecurity/lmdrouter
+
 Articles
 --------
  1. Go RESTful API Boilerplate with JWT Authentication backed by PostgreSQL - https://github.com/dhax/go-base
