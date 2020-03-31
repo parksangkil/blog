@@ -98,6 +98,8 @@ Libraries
 
  26. Go HTTP router library for AWS API Gateway-invoked Lambda Functions - https://github.com/aquasecurity/lmdrouter
 
+ 27. Update outdated Go dependencies interactively - https://github.com/oligot/go-mod-upgrade
+
 Articles
 --------
  1. Go RESTful API Boilerplate with JWT Authentication backed by PostgreSQL - https://github.com/dhax/go-base
@@ -154,3 +156,5 @@ Code Convention
  2. golang - sync.Map - https://jacking75.github.io/go_syncmap/
 
  3. A GraphQL-based Web App written with Go, React and MongoDB - https://github.com/Shpota/skmz
+
+ 4. HTTP load testing tool and library. - https://github.com/tsenart/vegeta
