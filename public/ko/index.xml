@@ -50,7 +50,7 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sun, 07 Jun 2020 17:36:00 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/awscdk/</guid>
-        <description>aws-cdk는 내부적으로 CLI와 AWS CloudFormation을 사용합니다.</description>
+        <description>aws-cdk는 내부적으로 CLI와 AWS CloudFormation을 사용합니다. CDK의 장점은 AWS에서 직접 개발해서 제공하는 도구이고, 기존 개발</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
