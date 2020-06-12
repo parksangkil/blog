@@ -14,13 +14,32 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 13 Jun 2020 06:21:16 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 06:23:37 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Golang.project</title>
+        <link>https://parksangkil.github.io/ko/posts/golang.project/</link>
+        <pubDate>Sat, 13 Jun 2020 06:23:37 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sat, 13 Jun 2020 06:23:37 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/golang.project/</guid>
+        <description>Cloud Native GoLang Microservices - gRPC, GraphQL
+ https://github.com/xmlking/micro-starter-kit  </description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Golang.study</title>
@@ -30,7 +49,9 @@
         <atom:modified>Sat, 13 Jun 2020 06:21:16 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.study/</guid>
         <description>Go by Example
- https://mingrammer.com/gobyexample/  </description>
+ https://mingrammer.com/gobyexample/  Implementation of common Data Structures and Algorithms with Go
+ https://github.com/punitpandey/ds-algo  Collection of Technical Interview Questions solved with Go
+ https://github.com/shomali11/go-interview  </description>
         
         <dc:creator>Park SangKil</dc:creator>
         
