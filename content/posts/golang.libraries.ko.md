@@ -8,3 +8,7 @@ Go package for fast high-level image processing powered by libvips C library
 
 A toolkit with common assertions and mocks that plays nicely with the standard library
  - https://github.com/stretchr/testify
+
+Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
+ - https://github.com/markbates/goth
+
