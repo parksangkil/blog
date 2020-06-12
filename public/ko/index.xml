@@ -14,7 +14,7 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 13 Jun 2020 06:13:36 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 06:18:01 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,25 @@
         
       
 
+      
+      <item>
+        <title>Golang.articles</title>
+        <link>https://parksangkil.github.io/ko/posts/golang.articles/</link>
+        <pubDate>Sat, 13 Jun 2020 06:18:01 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sat, 13 Jun 2020 06:18:01 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/golang.articles/</guid>
+        <description>map[string]interface{} in Go
+ https://bitfieldconsulting.com/golang/map-string-interface  </description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Golang.libraries</title>
