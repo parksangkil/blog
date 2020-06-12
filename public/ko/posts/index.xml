@@ -14,13 +14,32 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 09 Jun 2020 05:08:35 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 06:13:36 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Golang.libraries</title>
+        <link>https://parksangkil.github.io/ko/posts/golang.libraries/</link>
+        <pubDate>Sat, 13 Jun 2020 06:13:36 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sat, 13 Jun 2020 06:13:36 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/golang.libraries/</guid>
+        <description>Go package for fast high-level image processing powered by libvips C library
+ https://github.com/h2non/bimg  </description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Learnrust</title>
