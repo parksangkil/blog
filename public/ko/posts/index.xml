@@ -14,13 +14,31 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 13 Jun 2020 06:23:37 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 06:52:23 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Interview</title>
+        <link>https://parksangkil.github.io/ko/posts/interview/</link>
+        <pubDate>Sun, 14 Jun 2020 06:52:23 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sun, 14 Jun 2020 06:52:23 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/interview/</guid>
+        <description>FrentEnd 개발자 기술면접 인터뷰 질문 모음 https://realmojo.tistory.com/300</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Golang.project</title>
@@ -30,7 +48,8 @@
         <atom:modified>Sat, 13 Jun 2020 06:23:37 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.project/</guid>
         <description>Cloud Native GoLang Microservices - gRPC, GraphQL
- https://github.com/xmlking/micro-starter-kit  </description>
+ https://github.com/xmlking/micro-starter-kit  This repo contains examples and implementations of different types of GRPC services and APIs using Golang.
+ https://github.com/itsksaurabh/go-grpc-examples  </description>
         
         <dc:creator>Park SangKil</dc:creator>
         
