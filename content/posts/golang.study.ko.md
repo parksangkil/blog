@@ -14,3 +14,6 @@ Collection of Technical Interview Questions solved with Go
 
 Golang Tutorial
 - https://www.golangprograms.com/
+
+A Journey With Go
+ - https://medium.com/a-journey-with-go
