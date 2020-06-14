@@ -14,7 +14,7 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 14 Jun 2020 06:52:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 12:22:00 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,25 @@
         
       
 
+      
+      <item>
+        <title>Golang Books</title>
+        <link>https://parksangkil.github.io/ko/posts/books/</link>
+        <pubDate>Sun, 14 Jun 2020 12:22:00 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sun, 14 Jun 2020 12:22:00 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/books/</guid>
+        <description>Hands-On High Performance with Go
+ https://books.google.co.kr/books?id=5C7ZDwAAQBAJ&amp;amp;pg=PA45&amp;amp;lpg=PA45&amp;amp;dq=Difference+Between+Tree+Depth+and+Height+golang&amp;amp;source=bl&amp;amp;ots=IEspoM9M1x&amp;amp;sig=ACfU3U0lq7fgRHKDk4VH5yEXDast25ujXg&amp;amp;hl=ko&amp;amp;sa=X&amp;amp;ved=2ahUKEwi26vOO3vTpAhUDL6YKHTIpDFAQ6AEwC3oECAwQAQ#v=onepage&amp;amp;q=Difference%20Between%20Tree%20Depth%20and%20Height%20golang&amp;amp;f=false  </description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>BackEnd, FrontEnd 인터뷰 모음</title>
