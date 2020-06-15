@@ -12,3 +12,6 @@ A toolkit with common assertions and mocks that plays nicely with the standard l
 Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
  - https://github.com/markbates/goth
 
+Gostradamus: Better DateTimes for Go
+ - https://github.com/bykof/gostradamus
+
