@@ -15,3 +15,6 @@ Package goth provides a simple, clean, and idiomatic way to write authentication
 Gostradamus: Better DateTimes for Go
  - https://github.com/bykof/gostradamus
 
+Common golang code shared by multiple projects
+ - https://github.com/pinpt/go-common
+
