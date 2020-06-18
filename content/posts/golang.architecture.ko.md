@@ -1,6 +1,6 @@
 ---
 title: "Golang Architecture"
-draft: true
+date: 2020-06-13T06:21:16+09:00
 ---
 
 Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture

@@ -137,6 +137,25 @@
       </item>
       
       <item>
+        <title>Golang Architecture</title>
+        <link>https://parksangkil.github.io/ko/posts/golang.architecture/</link>
+        <pubDate>Sat, 13 Jun 2020 06:21:16 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sat, 13 Jun 2020 06:21:16 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/golang.architecture/</guid>
+        <description>Go (Golang) Clean Architecture based on Reading Uncle Bob&amp;rsquo;s Clean Architecture
+ https://github.com/bxcodec/go-clean-arch  </description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Golang.study</title>
         <link>https://parksangkil.github.io/ko/posts/golang.study/</link>
         <pubDate>Sat, 13 Jun 2020 06:21:16 +0900</pubDate>
