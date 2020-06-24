@@ -18,3 +18,11 @@ Gostradamus: Better DateTimes for Go
 Common golang code shared by multiple projects
  - https://github.com/pinpt/go-common
 
+Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
+ - https://github.com/gonum/gonum
+
+Go Library to Execute Commands Over SSH at Scale
+ - https://github.com/yahoo/vssh
+
+Open Source Continuous File Synchronization
+ - https://github.com/syncthing/syncthing
