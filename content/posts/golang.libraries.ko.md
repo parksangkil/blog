@@ -29,3 +29,6 @@ Open Source Continuous File Synchronization
 
 Optimized compression packages
  - https://github.com/klauspost/compress
+
+fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
+ - https://github.com/felixge/fgprof
