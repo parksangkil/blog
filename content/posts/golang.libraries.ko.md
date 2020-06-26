@@ -26,3 +26,6 @@ Go Library to Execute Commands Over SSH at Scale
 
 Open Source Continuous File Synchronization
  - https://github.com/syncthing/syncthing
+
+Optimized compression packages
+ - https://github.com/klauspost/compress
