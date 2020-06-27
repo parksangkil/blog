@@ -14,7 +14,7 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 22 Jun 2020 04:43:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 05:12:24 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
     
@@ -44,6 +44,25 @@
 
       
       <item>
+        <title>Rust Libraries</title>
+        <link>https://parksangkil.github.io/ko/posts/rust.libraries/</link>
+        <pubDate>Sun, 28 Jun 2020 05:12:24 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sun, 28 Jun 2020 05:12:24 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/rust.libraries/</guid>
+        <description>The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+ https://github.com/launchbadge/sqlx  </description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Golang Algorithm</title>
         <link>https://parksangkil.github.io/ko/posts/golang.algorithm/</link>
         <pubDate>Mon, 22 Jun 2020 04:43:02 +0900</pubDate>
@@ -51,7 +70,8 @@
         <atom:modified>Mon, 22 Jun 2020 04:43:02 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.algorithm/</guid>
         <description>MaxHeap in Golang
- https://golangbyexample.com/maxheap-in-golang/  </description>
+ https://golangbyexample.com/maxheap-in-golang/  A collection of 100+ popular LeetCode problems solved in Go.
+ https://github.com/austingebauer/go-leetcode  </description>
         
         <dc:creator>Park SangKil</dc:creator>
         

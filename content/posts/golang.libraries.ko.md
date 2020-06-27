@@ -32,3 +32,6 @@ Optimized compression packages
 
 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
  - https://github.com/felixge/fgprof
+
+A high-performance 100% compatible drop-in replacement of "encoding/json"
+ - https://github.com/json-iterator/go
