@@ -1,8 +1,11 @@
 ---
-title: "Golang.project"
+title: "Golang Project"
 date: 2020-06-13T06:23:37+09:00
 ---
 
+Standard Go Project Layout
+ - https://github.com/golang-standards/project-layout
+ 
 Cloud Native GoLang Microservices - gRPC, GraphQL
  - https://github.com/xmlking/micro-starter-kit
 
@@ -14,3 +17,6 @@ A GraphQL-based Web App written with Go, React and MongoDB
 
 Building a TODO API in Golang with Kubernetes
  - https://levelup.gitconnected.com/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029
+
+High Performance, Kubernetes Native Object Storage
+ - https://github.com/minio
