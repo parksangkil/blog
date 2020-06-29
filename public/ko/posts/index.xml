@@ -221,8 +221,7 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sat, 13 Jun 2020 06:23:37 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.project/</guid>
-        <description>Standard Go Project Layout
- https://github.com/golang-standards/project-layout  Cloud Native GoLang Microservices - gRPC, GraphQL
+        <description>Standard Go Project Layout  https://github.com/golang-standards/project-layout  Cloud Native GoLang Microservices - gRPC, GraphQL
  https://github.com/xmlking/micro-starter-kit  This repo contains examples and implementations of different types of GRPC services and APIs using Golang.
  https://github.com/itsksaurabh/go-grpc-examples  A GraphQL-based Web App written with Go, React and MongoDB
  https://github.com/Shpota/skmz  Building a TODO API in Golang with Kubernetes

@@ -3,9 +3,9 @@ title: "Golang Project"
 date: 2020-06-13T06:23:37+09:00
 ---
 
-Standard Go Project Layout
+# Standard Go Project Layout
  - https://github.com/golang-standards/project-layout
- 
+
 Cloud Native GoLang Microservices - gRPC, GraphQL
  - https://github.com/xmlking/micro-starter-kit
 
