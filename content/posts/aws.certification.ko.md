@@ -6,6 +6,12 @@ date: 2020-06-18T07:05:43+09:00
 AWS Certification
  - https://aws.amazon.com/ko/certification/
 
+AWS 설명서
+ - https://docs.aws.amazon.com/
+
+비공식 AWS 공인 솔루션스 아키텍트
+ - https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide
+ 
 [자격증] AWS Solutions Architect Professional 취득 후기
  - https://blog.wonizz.tk/2020/04/27/certification-aws-solutions-architect-professional/
 
