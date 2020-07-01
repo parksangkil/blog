@@ -3,7 +3,7 @@ title: "Golang Project"
 date: 2020-06-13T06:23:37+09:00
 ---
 
-# Standard Go Project Layout
+Standard Go Project Layout
  - https://github.com/golang-standards/project-layout
 
 Cloud Native GoLang Microservices - gRPC, GraphQL
@@ -20,3 +20,6 @@ Building a TODO API in Golang with Kubernetes
 
 High Performance, Kubernetes Native Object Storage
  - https://github.com/minio
+
+Building Microservices with Go
+ - https://morioh.com/p/f2740cd3a9f6

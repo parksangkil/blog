@@ -147,7 +147,7 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Thu, 18 Jun 2020 07:05:43 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/aws.certification/</guid>
-        <description>[자격증] AWS Solutions Architect Professional 취득 후기 https://blog.wonizz.tk/2020/04/27/certification-aws-solutions-architect-professional/ AWS 클라우드 교육 및 자격증 블로그를 시작합니다! https://aws.amazon.com/ko/blogs/korea/build-cloud-skills-with-training-and-certification/ AWS 공인 개발자 - 어소시에이트 수험 가이드 [강추] https://gist.github.com/serithemage/df61aaf396046eff7244b6eaa8d58d4a AWS 솔루션 아키텍트 어소시</description>
+        <description>AWS Certification https://aws.amazon.com/ko/certification/ [자격증] AWS Solutions Architect Professional 취득 후기 https://blog.wonizz.tk/2020/04/27/certification-aws-solutions-architect-professional/ AWS 클라우드 교육 및 자격증 블로그를 시작합니다! https://aws.amazon.com/ko/blogs/korea/build-cloud-skills-with-training-and-certification/ AWS 공인 개발자 - 어소시에이트 수험 가이드 [강추] https://gist.github.com/serithemage/df61aaf396046eff7244b6eaa8d58d4a AWS 솔루션 아키텍트</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -242,12 +242,13 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sat, 13 Jun 2020 06:23:37 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.project/</guid>
-        <description>Standard Go Project Layout  https://github.com/golang-standards/project-layout  Cloud Native GoLang Microservices - gRPC, GraphQL
+        <description>Standard Go Project Layout
+ https://github.com/golang-standards/project-layout  Cloud Native GoLang Microservices - gRPC, GraphQL
  https://github.com/xmlking/micro-starter-kit  This repo contains examples and implementations of different types of GRPC services and APIs using Golang.
  https://github.com/itsksaurabh/go-grpc-examples  A GraphQL-based Web App written with Go, React and MongoDB
  https://github.com/Shpota/skmz  Building a TODO API in Golang with Kubernetes
  https://levelup.gitconnected.com/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029  High Performance, Kubernetes Native Object Storage
- https://github.com/minio  </description>
+ https://github.com/minio  Building Microservices with Go</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -266,7 +267,8 @@
         <atom:modified>Sat, 13 Jun 2020 06:21:16 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.architecture/</guid>
         <description>Go (Golang) Clean Architecture based on Reading Uncle Bob&amp;rsquo;s Clean Architecture
- https://github.com/bxcodec/go-clean-arch  </description>
+ https://github.com/bxcodec/go-clean-arch  Clean Architecture sample
+ https://github.com/eminetto/clean-architecture-go-v2  </description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -327,7 +329,7 @@
       </item>
       
       <item>
-        <title>Golang.libraries</title>
+        <title>Golang Libraries</title>
         <link>https://parksangkil.github.io/ko/posts/golang.libraries/</link>
         <pubDate>Sat, 13 Jun 2020 06:13:36 +0900</pubDate>
         <author>ht1911@gmail.com (Park SangKil)</author>

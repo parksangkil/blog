@@ -1,5 +1,5 @@
 ---
-title: "Golang.libraries"
+title: "Golang Libraries"
 date: 2020-06-13T06:13:36+09:00
 ---
 
