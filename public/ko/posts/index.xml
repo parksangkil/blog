@@ -14,13 +14,32 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 29 Jun 2020 05:00:10 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 06:50:28 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Devops</title>
+        <link>https://parksangkil.github.io/ko/posts/devops/</link>
+        <pubDate>Thu, 02 Jul 2020 06:50:28 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Thu, 02 Jul 2020 06:50:28 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/devops/</guid>
+        <description>DevOps Workshop
+ https://devops-art-factory.gitbook.io/devops-workshop/  </description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Rust Algorithms</title>
