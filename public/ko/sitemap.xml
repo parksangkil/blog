@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://parksangkil.github.io/ko/posts/devops/</loc>
-    <lastmod>2020-07-02T06:50:28+09:00</lastmod>
+    <loc>https://parksangkil.github.io/ko/posts/devsecops/</loc>
+    <lastmod>2020-07-02T09:17:02+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://parksangkil.github.io/ko/</loc>
-    <lastmod>2020-07-02T06:50:28+09:00</lastmod>
+    <lastmod>2020-07-02T09:17:02+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -24,6 +24,11 @@
   
   <url>
     <loc>https://parksangkil.github.io/ko/posts/</loc>
+    <lastmod>2020-07-02T09:17:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/posts/devops/</loc>
     <lastmod>2020-07-02T06:50:28+09:00</lastmod>
   </url>
   

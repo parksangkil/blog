@@ -14,13 +14,31 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 02 Jul 2020 06:50:28 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 09:17:02 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>DevSeOops</title>
+        <link>https://parksangkil.github.io/ko/posts/devsecops/</link>
+        <pubDate>Thu, 02 Jul 2020 09:17:02 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Thu, 02 Jul 2020 09:17:02 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/devsecops/</guid>
+        <description>DevSecOps 를 접해보시렵니까? https://www.youtube.com/watch?v=F_f82F8g_Kw Reconnaissance tool for GitHub organizations https://github.com/michenriksen/gitrob Prevents you from committing secrets and credentials into git repositories https://github.com/awslabs/git-secrets Ah shhgit! Find GitHub secrets in real time https://github.com/eth0izzle/shhgit</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Devops</title>
