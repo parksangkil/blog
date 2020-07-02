@@ -14,7 +14,7 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 02 Jul 2020 09:17:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 17:15:19 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,24 @@
         
       
 
+      
+      <item>
+        <title>CKA(Certified Kubernetes Administrator)</title>
+        <link>https://parksangkil.github.io/ko/posts/cka/</link>
+        <pubDate>Thu, 02 Jul 2020 17:15:19 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Thu, 02 Jul 2020 17:15:19 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/cka/</guid>
+        <description>CKA 자격증 개요 https://kubetm.github.io/practice/cka/ready/ CKA(Certified Kubernetes Administrator) 시험 후기 https://ok-cp.tistory.com/4 CKA(Certified Kubernetes Administrator) 합격 후기 및 팁 공유 https://blog.dudaji.com/kubernetes/2019/06/24/cka-acceptance-review-soonbee.html</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>DevSeOops</title>
