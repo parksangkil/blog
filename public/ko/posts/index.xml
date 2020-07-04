@@ -14,13 +14,31 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 02 Jul 2020 17:15:19 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2020 08:39:21 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Frontend</title>
+        <link>https://parksangkil.github.io/ko/posts/frontend/</link>
+        <pubDate>Sat, 04 Jul 2020 08:39:21 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sat, 04 Jul 2020 08:39:21 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/frontend/</guid>
+        <description>실용주의 프런트 엔드 개발 https://peter-cho.gitbook.io/book/ TypeScript-Handbook 한글 문서 https://typescript-kr.github.io/</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>CKA(Certified Kubernetes Administrator)</title>
