@@ -20,3 +20,12 @@ Vue 한국어 가이드
 
 한국어로 배우는 리액트
  https://github.com/reactkr/learn-react-in-korean
+
+Svelte 한국어 번역 페이지
+ https://github.com/Svelte-Korea/kr-svelte-dev
+
+처음 만나는 Svelte
+ https://ui.toast.com/weekly-pick/ko_20191002/
+
+2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크
+ https://d2.naver.com/helloworld/2108442
