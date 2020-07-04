@@ -35,3 +35,6 @@ fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Of
 
 A high-performance 100% compatible drop-in replacement of "encoding/json"
  - https://github.com/json-iterator/go
+
+Golang connection multiplexing library
+ https://github.com/hashicorp/yamux
