@@ -29,3 +29,6 @@ Svelte 한국어 번역 페이지
 
 2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크
  https://d2.naver.com/helloworld/2108442
+
+Angular 한글
+ https://angular.kr/
