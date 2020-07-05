@@ -44,3 +44,6 @@ GraphQL
 
 GraphQL is not just a network protocol
  https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/
+
+JavaScript for impatient programmers
+ https://exploringjs.com/impatient-js/index.html
