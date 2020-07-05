@@ -50,3 +50,6 @@ JavaScript for impatient programmers
 
 Best Practices for integrating GraphQL Code Generator in your frontend applications
  https://the-guild.dev/blog/graphql-codegen-best-practices
+
+React 강의
+ https://ljh86029926.gitbook.io/coding-apple-react/
