@@ -38,3 +38,9 @@ A high-performance 100% compatible drop-in replacement of "encoding/json"
 
 Golang connection multiplexing library
  https://github.com/hashicorp/yamux
+
+An easy HTTP client for Go. Inspired by the immortal Requests.
+ https://github.com/lucperkins/rek
+
+Validates your Go installation and dependencies.
+ https://github.com/rakyll/govalidate

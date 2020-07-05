@@ -41,3 +41,6 @@ Angular 한글
 
 GraphQL
  https://graphql-kr.github.io/
+
+GraphQL is not just a network protocol
+ https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/
