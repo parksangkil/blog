@@ -47,3 +47,6 @@ GraphQL is not just a network protocol
 
 JavaScript for impatient programmers
  https://exploringjs.com/impatient-js/index.html
+
+Best Practices for integrating GraphQL Code Generator in your frontend applications
+ https://the-guild.dev/blog/graphql-codegen-best-practices
