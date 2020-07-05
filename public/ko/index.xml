@@ -162,7 +162,9 @@
         <atom:modified>Sun, 28 Jun 2020 05:12:24 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/rust.libraries/</guid>
         <description>The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
- https://github.com/launchbadge/sqlx  </description>
+https://github.com/launchbadge/sqlx
+An easy and powerful Rust HTTP Client
+https://github.com/seanmonstar/reqwest</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
