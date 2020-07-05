@@ -32,3 +32,12 @@ Svelte 한국어 번역 페이지
 
 Angular 한글
  https://angular.kr/
+
+자바스크립트 언어 자료
+ https://developer.mozilla.org/ko/docs/Web/JavaScript/%EC%96%B8%EC%96%B4_%EB%A6%AC%EC%86%8C%EC%8A%A4
+
+[JavaScript] ES6 문법 정리
+ https://itstory.tk/entry/JavaScript-ES6-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC
+
+GraphQL
+ https://graphql-kr.github.io/
