@@ -318,9 +318,12 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sat, 13 Jun 2020 06:21:16 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.architecture/</guid>
-        <description>Go (Golang) Clean Architecture based on Reading Uncle Bob&amp;rsquo;s Clean Architecture
- https://github.com/bxcodec/go-clean-arch  Clean Architecture sample
- https://github.com/eminetto/clean-architecture-go-v2  </description>
+        <description>Standard Go Project Layout
+https://github.com/byounghoonkim/project-layout
+Go (Golang) Clean Architecture based on Reading Uncle Bob&amp;rsquo;s Clean Architecture
+https://github.com/bxcodec/go-clean-arch
+Clean Architecture sample
+https://github.com/eminetto/clean-architecture-go-v2</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
