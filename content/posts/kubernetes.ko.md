@@ -5,6 +5,12 @@ categories: []
 tags: []
 ---
 
+Amazon EKS Workshop
+ https://www.eksworkshop.com/
+
+Amazon ECS Workshop for AWS Fargate
+ https://ecsworkshop.com/
+ 
 운영 수준의 컨테이너 오케스트레이션
  https://kubernetes.io/ko/
 
@@ -13,9 +19,3 @@ The ultimate guide for local development on Kubernetes: Draft vs Skaffold vs Gar
 
 Create A CI/CD Pipeline With Kubernetes And Jenkins
  https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins
-
-Certified Kubernetes Administrator (CKA) Program
- https://www.cncf.io/certification/cka/
-
-Certified Kubernetes Application Developer (CKAD) Program
- https://www.cncf.io/certification/ckad/
