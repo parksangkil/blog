@@ -451,12 +451,17 @@ https://github.com/eminetto/clean-architecture-go-v2</description>
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sat, 13 Jun 2020 06:13:36 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.libraries/</guid>
-        <description>Go package for fast high-level image processing powered by libvips C library
- https://github.com/h2non/bimg  A toolkit with common assertions and mocks that plays nicely with the standard library
- https://github.com/stretchr/testify  Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
- https://github.com/markbates/goth  Gostradamus: Better DateTimes for Go
- https://github.com/bykof/gostradamus  Common golang code shared by multiple projects
- https://github.com/pinpt/go-common  Gonum is a set of numeric libraries for the Go programming language.</description>
+        <description>A curated list of awesome Go frameworks, libraries and software
+https://github.com/avelino/awesome-go
+Go package for fast high-level image processing powered by libvips C library
+https://github.com/h2non/bimg
+A toolkit with common assertions and mocks that plays nicely with the standard library
+https://github.com/stretchr/testify
+Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
+https://github.com/markbates/goth
+Gostradamus: Better DateTimes for Go
+https://github.com/bykof/gostradamus
+Common golang code shared by multiple projects</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
