@@ -14,7 +14,7 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 06 Jul 2020 16:27:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 04:10:52 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,24 @@
         
       
 
+      
+      <item>
+        <title>Etc</title>
+        <link>https://parksangkil.github.io/ko/posts/etc/</link>
+        <pubDate>Tue, 07 Jul 2020 04:10:52 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Tue, 07 Jul 2020 04:10:52 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/etc/</guid>
+        <description>좋은 개발팀을 만드는데 도움이 되는 자료 https://github.com/leehosung/awesome-devteam</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Java</title>
@@ -91,7 +109,7 @@ https://www.java67.com/2017/10/java-8-convert-arraylist-to-hashmap-or.html</desc
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sat, 04 Jul 2020 08:39:21 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/frontend/</guid>
-        <description>실용주의 프런트 엔드 개발 https://peter-cho.gitbook.io/book/ TypeScript-Handbook 한글 문서 https://typescript-kr.github.io/ 야무의 Front-End Master https://yamoo9.github.io/front-end-master/lecture/ 프론트엔드 면접 문제 은행 https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/ Vue 한국어 가이드 https://kr.vuejs.org/v2/guide/ 한국어로 배우는 리액트 https://github.com/reactkr/learn-react-in-korean Svelte 한국어 번역 페이지 https://github.com/Svelte-Korea/kr-svelte-dev 처음 만나는</description>
+        <description>실용주의 프런트 엔드 개발 https://peter-cho.gitbook.io/book/ TypeScript-Handbook 한글 문서 https://typescript-kr.github.io/ 한눈에 보는 타입스크립트 https://heropy.blog/2020/01/27/typescript/ 야무의 Front-End Master https://yamoo9.github.io/front-end-master/lecture/ 프론트엔드 면접 문제 은행 https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/ Vue 한국어 가이드 https://kr.vuejs.org/v2/guide/ 한국어로 배우는 리액트 https://github.com/reactkr/learn-react-in-korean Svelte 한국</description>
         
         <dc:creator>Park SangKil</dc:creator>
         

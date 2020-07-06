@@ -9,6 +9,9 @@ date: 2020-07-04T08:39:21+09:00
 TypeScript-Handbook 한글 문서
  https://typescript-kr.github.io/
 
+한눈에 보는 타입스크립트
+ https://heropy.blog/2020/01/27/typescript/
+ 
 야무의 Front-End Master
  https://yamoo9.github.io/front-end-master/lecture/
 
