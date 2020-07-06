@@ -10,3 +10,6 @@ Java Queue Collection Tutorial and Examples
 
 How to use filter + map + collect + Stream in Java? Example Tutorial
  https://javarevisited.blogspot.com/2018/05/java-8-filter-map-collect-stream-example.html
+
+How to convert ArrayList to HashMap and LinkedHashMap in Java 8 - Example Tutorial
+ https://www.java67.com/2017/10/java-8-convert-arraylist-to-hashmap-or.html
