@@ -13,3 +13,9 @@ The ultimate guide for local development on Kubernetes: Draft vs Skaffold vs Gar
 
 Create A CI/CD Pipeline With Kubernetes And Jenkins
  https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins
+
+Certified Kubernetes Administrator (CKA) Program
+ https://www.cncf.io/certification/cka/
+
+Certified Kubernetes Application Developer (CKAD) Program
+ https://www.cncf.io/certification/ckad/
