@@ -8,3 +8,8 @@ tags: []
 운영 수준의 컨테이너 오케스트레이션
  https://kubernetes.io/ko/
 
+The ultimate guide for local development on Kubernetes: Draft vs Skaffold vs Garden.io
+ https://codefresh.io/howtos/local-k8s-draft-skaffold-garden/
+
+Create A CI/CD Pipeline With Kubernetes And Jenkins
+ https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins

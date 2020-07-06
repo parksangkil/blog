@@ -51,7 +51,9 @@
         <atom:modified>Mon, 06 Jul 2020 16:27:25 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/java/</guid>
         <description>Java Queue Collection Tutorial and Examples
-https://www.codejava.net/java-core/collections/java-queue-collection-tutorial-and-examples</description>
+https://www.codejava.net/java-core/collections/java-queue-collection-tutorial-and-examples
+How to use filter + map + collect + Stream in Java? Example Tutorial
+https://javarevisited.blogspot.com/2018/05/java-8-filter-map-collect-stream-example.html</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -69,7 +71,7 @@ https://www.codejava.net/java-core/collections/java-queue-collection-tutorial-an
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Mon, 06 Jul 2020 08:22:43 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/kubernetes/</guid>
-        <description>운영 수준의 컨테이너 오케스트레이션 https://kubernetes.io/ko/</description>
+        <description>운영 수준의 컨테이너 오케스트레이션 https://kubernetes.io/ko/ The ultimate guide for local development on Kubernetes: Draft vs Skaffold vs Garden.io https://codefresh.io/howtos/local-k8s-draft-skaffold-garden/ Create A CI/CD Pipeline With Kubernetes And Jenkins https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
