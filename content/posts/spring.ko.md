@@ -7,3 +7,6 @@ tags: [Spring, Java]
 
 A library for handling Problems in Spring Web MVC
   https://github.com/zalando/problem-spring-web
+
+Spring Boot starter for configurable REST API error handling
+ https://github.com/wimdeblauwe/error-handling-spring-boot-starter
