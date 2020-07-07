@@ -14,13 +14,48 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 07 Jul 2020 04:10:52 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 20:35:55 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Spring</title>
+        <link>https://parksangkil.github.io/ko/posts/spring/</link>
+        <pubDate>Tue, 07 Jul 2020 20:35:55 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Tue, 07 Jul 2020 20:35:55 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/spring/</guid>
+        <description>A library for handling Problems in Spring Web MVC
+https://github.com/zalando/problem-spring-web</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Spring</category>
+            
+          
+            
+              <category>Java</category>
+            
+          
+        
+        
+          
+            
+              <category>Spring</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Etc</title>
