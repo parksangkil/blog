@@ -22,3 +22,6 @@ Create A CI/CD Pipeline With Kubernetes And Jenkins
 
 Minikube Installation On Mac
  https://containerlabs.kubedaily.com/Kubernetes/fundamentals/minikube_on_mac.html
+
+A K8s-native Pipeline resource.
+ https://github.com/tektoncd/pipeline

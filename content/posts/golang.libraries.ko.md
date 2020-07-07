@@ -1,6 +1,8 @@
 ---
 title: "Golang Libraries"
 date: 2020-06-13T06:13:36+09:00
+categories: [Golang]
+tags: [Golang_Libraries]
 ---
 
 A curated list of awesome Go frameworks, libraries and software
@@ -47,3 +49,6 @@ An easy HTTP client for Go. Inspired by the immortal Requests.
 
 Validates your Go installation and dependencies.
  https://github.com/rakyll/govalidate
+
+Common golang code shared by multiple projects
+ https://github.com/pinpt/go-common

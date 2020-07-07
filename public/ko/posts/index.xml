@@ -123,7 +123,7 @@ https://www.java67.com/2017/10/java-8-convert-arraylist-to-hashmap-or.html</desc
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Mon, 06 Jul 2020 08:22:43 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/kubernetes/</guid>
-        <description>Amazon EKS Workshop https://www.eksworkshop.com/ Amazon ECS Workshop for AWS Fargate https://ecsworkshop.com/ 운영 수준의 컨테이너 오케스트레이션 https://kubernetes.io/ko/ The ultimate guide for local development on Kubernetes: Draft vs Skaffold vs Garden.io https://codefresh.io/howtos/local-k8s-draft-skaffold-garden/ Create A CI/CD Pipeline With Kubernetes And Jenkins https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins Minikube Installation On Mac https://containerlabs.kubedaily.com/Kubernetes/fundamentals/minikube_on_mac.html</description>
+        <description>Amazon EKS Workshop https://www.eksworkshop.com/ Amazon ECS Workshop for AWS Fargate https://ecsworkshop.com/ 운영 수준의 컨테이너 오케스트레이션 https://kubernetes.io/ko/ The ultimate guide for local development on Kubernetes: Draft vs Skaffold vs Garden.io https://codefresh.io/howtos/local-k8s-draft-skaffold-garden/ Create A CI/CD Pipeline With Kubernetes And Jenkins https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins Minikube Installation On Mac https://containerlabs.kubedaily.com/Kubernetes/fundamentals/minikube_on_mac.html A K8s-native Pipeline resource. https://github.com/tektoncd/pipeline</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -543,6 +543,18 @@ Common golang code shared by multiple projects</description>
         
         
         
+          
+            
+              <category>Golang_Libraries</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
         
         
       </item>

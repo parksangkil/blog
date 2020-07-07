@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Golang on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/categories/golang/</link>
+    <description>Recent content in Golang on Park Sangkil Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
+    <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 13 Jun 2020 06:13:36 +0900</lastBuildDate>
+    
+        <atom:link href="https://parksangkil.github.io/ko/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Golang Libraries</title>
+        <link>https://parksangkil.github.io/ko/posts/golang.libraries/</link>
+        <pubDate>Sat, 13 Jun 2020 06:13:36 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sat, 13 Jun 2020 06:13:36 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/golang.libraries/</guid>
+        <description>A curated list of awesome Go frameworks, libraries and software
+https://github.com/avelino/awesome-go
+Go package for fast high-level image processing powered by libvips C library
+https://github.com/h2non/bimg
+A toolkit with common assertions and mocks that plays nicely with the standard library
+https://github.com/stretchr/testify
+Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
+https://github.com/markbates/goth
+Gostradamus: Better DateTimes for Go
+https://github.com/bykof/gostradamus
+Common golang code shared by multiple projects</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang_Libraries</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
