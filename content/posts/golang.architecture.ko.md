@@ -11,3 +11,6 @@ Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 
 Clean Architecture sample
  https://github.com/eminetto/clean-architecture-go-v2
+
+Clean Architecture, 2 years later
+ https://dev.to/eminetto/clean-architecture-2-years-later-4een

@@ -26,3 +26,6 @@ Building Microservices with Go
 
 Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
  https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+
+Golang Microservices Boilerplate
+ https://github.com/gbrayhan/microservices-go
