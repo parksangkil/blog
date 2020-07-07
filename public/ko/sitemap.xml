@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://parksangkil.github.io/ko/categories/</loc>
+    <lastmod>2020-07-07T04:10:52+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parksangkil.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://parksangkil.github.io/ko/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/dev-ideas/</loc>
+    <lastmod>2020-07-07T04:10:52+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://parksangkil.github.io/ko/posts/etc/</loc>
+    <lastmod>2020-07-07T04:10:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/categories/etc/</loc>
     <lastmod>2020-07-07T04:10:52+09:00</lastmod>
   </url>
   
@@ -28,23 +53,23 @@
   </url>
   
   <url>
-    <loc>https://parksangkil.github.io/ko/posts/java/</loc>
-    <lastmod>2020-07-06T16:27:25+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/categories/</loc>
-    <lastmod>2020-07-06T08:22:43+09:00</lastmod>
+    <loc>https://parksangkil.github.io/ko/tags/</loc>
+    <lastmod>2020-07-07T04:10:52+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://parksangkil.github.io/en/categories/"
+                href="https://parksangkil.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://parksangkil.github.io/ko/categories/"
+                href="https://parksangkil.github.io/ko/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/posts/java/</loc>
+    <lastmod>2020-07-06T16:27:25+09:00</lastmod>
   </url>
   
   <url>
@@ -60,21 +85,6 @@
   <url>
     <loc>https://parksangkil.github.io/ko/posts/kubernetes/</loc>
     <lastmod>2020-07-06T08:22:43+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/tags/</loc>
-    <lastmod>2020-07-06T08:22:43+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parksangkil.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://parksangkil.github.io/ko/tags/"
-                />
   </url>
   
   <url>
