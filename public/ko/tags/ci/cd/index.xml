@@ -6,17 +6,16 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Kubernetes on Park Sangkil Tech Blog</title>
-    <link>https://parksangkil.github.io/ko/categories/kubernetes/</link>
-    <description>Recent content in Kubernetes on Park Sangkil Tech Blog</description>
+    <title>CI/CD on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/ci/cd/</link>
+    <description>Recent content in CI/CD on Park Sangkil Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 06 Jul 2020 08:22:43 +0900</lastBuildDate>
     
-        <atom:link href="https://parksangkil.github.io/ko/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://parksangkil.github.io/ko/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
     
     
     

@@ -75,7 +75,11 @@ https://github.com/wimdeblauwe/error-handling-spring-boot-starter</description>
         
           
             
-              <category>dev ideas</category>
+              <category>dev</category>
+            
+          
+            
+              <category>ideas</category>
             
           
         
@@ -128,7 +132,15 @@ https://www.java67.com/2017/10/java-8-convert-arraylist-to-hashmap-or.html</desc
         
           
             
-              <category>Kubernetes EKS CI/CD</category>
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>EKS</category>
+            
+          
+            
+              <category>CI/CD</category>
             
           
         

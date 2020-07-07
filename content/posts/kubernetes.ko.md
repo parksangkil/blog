@@ -2,7 +2,7 @@
 title: "Kubernetes"
 date: 2020-07-06T08:22:43+09:00
 categories: [Kubernetes]
-tags: [Kubernetes EKS CI/CD]
+tags: [Kubernetes, EKS, CI/CD]
 ---
 
 Amazon EKS Workshop
