@@ -19,3 +19,6 @@ Design patterns implemented in Java
 
 eugenp
  https://github.com/eugenp/tutorials
+
+Core Java Concurrency Basic
+ https://github.com/eugenp/tutorials/tree/master/core-java-modules/core-java-concurrency-basic
