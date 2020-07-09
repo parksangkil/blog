@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://parksangkil.github.io/ko/posts/automation/</loc>
+    <lastmod>2020-07-10T08:28:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/categories/automation/</loc>
+    <lastmod>2020-07-10T08:28:03+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://parksangkil.github.io/ko/categories/</loc>
-    <lastmod>2020-07-07T20:35:55+09:00</lastmod>
+    <lastmod>2020-07-10T08:28:03+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,13 +28,8 @@
   </url>
   
   <url>
-    <loc>https://parksangkil.github.io/ko/tags/java/</loc>
-    <lastmod>2020-07-07T20:35:55+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://parksangkil.github.io/ko/</loc>
-    <lastmod>2020-07-07T20:35:55+09:00</lastmod>
+    <lastmod>2020-07-10T08:28:03+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,7 +43,37 @@
   </url>
   
   <url>
+    <loc>https://parksangkil.github.io/ko/tags/playwright/</loc>
+    <lastmod>2020-07-10T08:28:03+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://parksangkil.github.io/ko/posts/</loc>
+    <lastmod>2020-07-10T08:28:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/puppeteer/</loc>
+    <lastmod>2020-07-10T08:28:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/</loc>
+    <lastmod>2020-07-10T08:28:03+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parksangkil.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://parksangkil.github.io/ko/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/java/</loc>
     <lastmod>2020-07-07T20:35:55+09:00</lastmod>
   </url>
   
@@ -55,21 +90,6 @@
   <url>
     <loc>https://parksangkil.github.io/ko/posts/spring/</loc>
     <lastmod>2020-07-07T20:35:55+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/tags/</loc>
-    <lastmod>2020-07-07T20:35:55+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parksangkil.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://parksangkil.github.io/ko/tags/"
-                />
   </url>
   
   <url>
