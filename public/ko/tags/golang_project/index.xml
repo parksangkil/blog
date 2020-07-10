@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Golang on Park Sangkil Tech Blog</title>
-    <link>https://parksangkil.github.io/ko/categories/golang/</link>
-    <description>Recent content in Golang on Park Sangkil Tech Blog</description>
+    <title>Golang_Project on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/golang_project/</link>
+    <description>Recent content in Golang_Project on Park Sangkil Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 13 Jun 2020 06:23:37 +0900</lastBuildDate>
     
-        <atom:link href="https://parksangkil.github.io/ko/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://parksangkil.github.io/ko/tags/golang_project/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -53,46 +53,6 @@ Complete serverless application to show how to apply DDD, Clean Architecture, an
           
             
               <category>Golang_Project</category>
-            
-          
-        
-        
-          
-            
-              <category>Golang</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Golang Libraries</title>
-        <link>https://parksangkil.github.io/ko/posts/golang.libraries/</link>
-        <pubDate>Sat, 13 Jun 2020 06:13:36 +0900</pubDate>
-        <author>ht1911@gmail.com (Park SangKil)</author>
-        <atom:modified>Sat, 13 Jun 2020 06:13:36 +0900</atom:modified>
-        <guid>https://parksangkil.github.io/ko/posts/golang.libraries/</guid>
-        <description>A curated list of awesome Go frameworks, libraries and software
-https://github.com/avelino/awesome-go
-Go package for fast high-level image processing powered by libvips C library
-https://github.com/h2non/bimg
-A toolkit with common assertions and mocks that plays nicely with the standard library
-https://github.com/stretchr/testify
-Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
-https://github.com/markbates/goth
-Gostradamus: Better DateTimes for Go
-https://github.com/bykof/gostradamus
-Common golang code shared by multiple projects</description>
-        
-        <dc:creator>Park SangKil</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>Golang_Libraries</category>
             
           
         

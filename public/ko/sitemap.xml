@@ -173,7 +173,17 @@
   </url>
   
   <url>
+    <loc>https://parksangkil.github.io/ko/categories/rust/</loc>
+    <lastmod>2020-06-28T05:12:24+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://parksangkil.github.io/ko/posts/rust.libraries/</loc>
+    <lastmod>2020-06-28T05:12:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/rust_library/</loc>
     <lastmod>2020-06-28T05:12:24+09:00</lastmod>
   </url>
   
@@ -213,7 +223,17 @@
   </url>
   
   <url>
+    <loc>https://parksangkil.github.io/ko/categories/golang/</loc>
+    <lastmod>2020-06-13T06:23:37+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://parksangkil.github.io/ko/posts/golang.project/</loc>
+    <lastmod>2020-06-13T06:23:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/golang_project/</loc>
     <lastmod>2020-06-13T06:23:37+09:00</lastmod>
   </url>
   
@@ -230,11 +250,6 @@
   <url>
     <loc>https://parksangkil.github.io/ko/posts/golang.articles/</loc>
     <lastmod>2020-06-13T06:18:01+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/categories/golang/</loc>
-    <lastmod>2020-06-13T06:13:36+09:00</lastmod>
   </url>
   
   <url>

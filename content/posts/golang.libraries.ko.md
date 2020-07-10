@@ -52,3 +52,6 @@ Validates your Go installation and dependencies.
 
 Common golang code shared by multiple projects
  https://github.com/pinpt/go-common
+
+Mocking your SQL database in Go tests has never been easier.
+ https://github.com/cockroachdb/copyist

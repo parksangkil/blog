@@ -349,13 +349,27 @@ https://github.com/eugenp/tutorials/tree/master/core-java-modules/core-java-conc
         <description>The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 https://github.com/launchbadge/sqlx
 An easy and powerful Rust HTTP Client
-https://github.com/seanmonstar/reqwest</description>
+https://github.com/seanmonstar/reqwest
+Rust ORM Framework High Performance Rust ORM(JSON based)
+https://github.com/rbatis/rbatis</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
         
         
         
+          
+            
+              <category>Rust_library</category>
+            
+          
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
         
         
       </item>
@@ -523,6 +537,18 @@ Complete serverless application to show how to apply DDD, Clean Architecture, an
         
         
         
+          
+            
+              <category>Golang_Project</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
         
         
       </item>

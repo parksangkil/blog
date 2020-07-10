@@ -1,6 +1,8 @@
 ---
 title: "Golang Project"
 date: 2020-06-13T06:23:37+09:00
+categories: [Golang]
+tags: [Golang_Project]
 ---
 
 Standard Go Project Layout
@@ -29,3 +31,6 @@ Complete serverless application to show how to apply DDD, Clean Architecture, an
 
 Golang Microservices Boilerplate
  https://github.com/gbrayhan/microservices-go
+
+Golang Course With Building a Fintech Banking App
+ https://www.blog.duomly.com/golang-course-with-building-a-fintech-banking-app-lesson-1-start-the-project/
