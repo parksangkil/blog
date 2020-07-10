@@ -55,3 +55,6 @@ Common golang code shared by multiple projects
 
 Mocking your SQL database in Go tests has never been easier.
  https://github.com/cockroachdb/copyist
+
+Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
+ https://github.com/lovoo/goka

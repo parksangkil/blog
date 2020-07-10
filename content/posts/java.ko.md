@@ -22,3 +22,6 @@ eugenp
 
 Core Java Concurrency Basic
  https://github.com/eugenp/tutorials/tree/master/core-java-modules/core-java-concurrency-basic
+
+[JVM] 객체 재사용 - Reference 종류, WeakHashMap
+ https://m.blog.naver.com/PostView.nhn?blogId=kbh3983&logNo=221001751572
