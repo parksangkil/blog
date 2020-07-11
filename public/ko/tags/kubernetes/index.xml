@@ -30,7 +30,9 @@
         <atom:modified>Sat, 11 Jul 2020 09:23:28 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/cncf/</guid>
         <description>Contour is a Kubernetes ingress controller using Lyft&amp;rsquo;s Envoy proxy.
-https://github.com/projectcontour/contour</description>
+https://github.com/projectcontour/contour
+Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+https://github.com/kubernetes-sigs/external-dns</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -64,7 +66,7 @@ https://github.com/projectcontour/contour</description>
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Mon, 06 Jul 2020 08:22:43 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/kubernetes/</guid>
-        <description>Amazon EKS Workshop https://www.eksworkshop.com/ Amazon ECS Workshop for AWS Fargate https://ecsworkshop.com/ 운영 수준의 컨테이너 오케스트레이션 https://kubernetes.io/ko/ The ultimate guide for local development on Kubernetes: Draft vs Skaffold vs Garden.io https://codefresh.io/howtos/local-k8s-draft-skaffold-garden/ Create A CI/CD Pipeline With Kubernetes And Jenkins https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins Minikube Installation On Mac https://containerlabs.kubedaily.com/Kubernetes/fundamentals/minikube_on_mac.html A K8s-native Pipeline resource. https://github.com/tektoncd/pipeline Lightweight upstream K8s https://microk8s.io/</description>
+        <description>Amazon EKS Workshop https://www.eksworkshop.com/ Amazon ECS Workshop for AWS Fargate https://ecsworkshop.com/ 운영 수준의 컨테이너 오케스트레이션 https://kubernetes.io/ko/ The ultimate guide for local development on Kubernetes: Draft vs Skaffold vs Garden.io https://codefresh.io/howtos/local-k8s-draft-skaffold-garden/ Create A CI/CD Pipeline With Kubernetes And Jenkins https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins Minikube Installation On Mac https://containerlabs.kubedaily.com/Kubernetes/fundamentals/minikube_on_mac.html A K8s-native Pipeline resource. https://github.com/tektoncd/pipeline Lightweight upstream K8s https://microk8s.io/ Kubernetes on your macOS laptop</description>
         
         <dc:creator>Park SangKil</dc:creator>
         

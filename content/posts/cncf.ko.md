@@ -7,3 +7,6 @@ tags: [Kubernetes, ingress]
 
 Contour is a Kubernetes ingress controller using Lyft's Envoy proxy.
  https://github.com/projectcontour/contour
+
+Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+ https://github.com/kubernetes-sigs/external-dns

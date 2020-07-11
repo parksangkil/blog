@@ -28,3 +28,7 @@ A K8s-native Pipeline resource.
 
 Lightweight upstream K8s
  https://microk8s.io/
+
+Kubernetes on your macOS laptop with multipass, k3s, and Rancher 2.4 — Elasticsearch/Kibana in minutes!
+ https://medium.com/@jyeee/kubernetes-on-your-macos-laptop-with-multipass-k3s-and-rancher-2-4-6e9cbf013f58
+ 

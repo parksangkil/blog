@@ -14,3 +14,6 @@ Clean Architecture sample
 
 Clean Architecture, 2 years later
  https://dev.to/eminetto/clean-architecture-2-years-later-4een
+
+stygis — Golang Hexagonal Architecture
+ https://medium.com/@iDevoid/stygis-golang-hexagonal-architecture-a2d89d01f84b

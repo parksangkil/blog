@@ -51,7 +51,9 @@
         <atom:modified>Sat, 11 Jul 2020 09:23:28 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/cncf/</guid>
         <description>Contour is a Kubernetes ingress controller using Lyft&amp;rsquo;s Envoy proxy.
-https://github.com/projectcontour/contour</description>
+https://github.com/projectcontour/contour
+Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+https://github.com/kubernetes-sigs/external-dns</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -221,7 +223,7 @@ https://github.com/wimdeblauwe/error-handling-spring-boot-starter</description>
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Mon, 06 Jul 2020 08:22:43 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/kubernetes/</guid>
-        <description>Amazon EKS Workshop https://www.eksworkshop.com/ Amazon ECS Workshop for AWS Fargate https://ecsworkshop.com/ 운영 수준의 컨테이너 오케스트레이션 https://kubernetes.io/ko/ The ultimate guide for local development on Kubernetes: Draft vs Skaffold vs Garden.io https://codefresh.io/howtos/local-k8s-draft-skaffold-garden/ Create A CI/CD Pipeline With Kubernetes And Jenkins https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins Minikube Installation On Mac https://containerlabs.kubedaily.com/Kubernetes/fundamentals/minikube_on_mac.html A K8s-native Pipeline resource. https://github.com/tektoncd/pipeline Lightweight upstream K8s https://microk8s.io/</description>
+        <description>Amazon EKS Workshop https://www.eksworkshop.com/ Amazon ECS Workshop for AWS Fargate https://ecsworkshop.com/ 운영 수준의 컨테이너 오케스트레이션 https://kubernetes.io/ko/ The ultimate guide for local development on Kubernetes: Draft vs Skaffold vs Garden.io https://codefresh.io/howtos/local-k8s-draft-skaffold-garden/ Create A CI/CD Pipeline With Kubernetes And Jenkins https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins Minikube Installation On Mac https://containerlabs.kubedaily.com/Kubernetes/fundamentals/minikube_on_mac.html A K8s-native Pipeline resource. https://github.com/tektoncd/pipeline Lightweight upstream K8s https://microk8s.io/ Kubernetes on your macOS laptop</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -591,7 +593,9 @@ https://github.com/bxcodec/go-clean-arch
 Clean Architecture sample
 https://github.com/eminetto/clean-architecture-go-v2
 Clean Architecture, 2 years later
-https://dev.to/eminetto/clean-architecture-2-years-later-4een</description>
+https://dev.to/eminetto/clean-architecture-2-years-later-4een
+stygis — Golang Hexagonal Architecture
+https://medium.com/@iDevoid/stygis-golang-hexagonal-architecture-a2d89d01f84b</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -621,24 +625,42 @@ https://dev.to/eminetto/clean-architecture-2-years-later-4een</description>
       </item>
       
       <item>
-        <title>Golang.articles</title>
+        <title>Golang Articles</title>
         <link>https://parksangkil.github.io/ko/posts/golang.articles/</link>
         <pubDate>Sat, 13 Jun 2020 06:18:01 +0900</pubDate>
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sat, 13 Jun 2020 06:18:01 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.articles/</guid>
         <description>map[string]interface{} in Go
- https://bitfieldconsulting.com/golang/map-string-interface  Stopping HTTP Server Gracefully: Context vs Channels vs SyncGroup
- https://www.gollahalli.com/blog/stopping-http-server-gracefully-context-vs-channels-vs-syncgroup/  How to handle signals with Go to graceful shutdown HTTP server
- https://rafallorenz.com/go/handle-signals-to-graceful-shutdown-http-server/  Experimenting with Error Handling via Generics in Go
- https://deedlefake.com/experimenting-with-error-handling-via-generics-in-go.html  Why You Should Be Using errgroup.WithContext() in Your Golang Server Handlers
- https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/  </description>
+https://bitfieldconsulting.com/golang/map-string-interface
+Stopping HTTP Server Gracefully: Context vs Channels vs SyncGroup
+https://www.gollahalli.com/blog/stopping-http-server-gracefully-context-vs-channels-vs-syncgroup/
+How to handle signals with Go to graceful shutdown HTTP server
+https://rafallorenz.com/go/handle-signals-to-graceful-shutdown-http-server/
+Experimenting with Error Handling via Generics in Go
+https://deedlefake.com/experimenting-with-error-handling-via-generics-in-go.html
+Why You Should Be Using errgroup.WithContext() in Your Golang Server Handlers
+https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/
+Go: Debugging with Delve &amp;amp; Core Dumps
+https://medium.com/a-journey-with-go/go-debugging-with-delve-core-dumps-384145b2e8d9</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
         
         
         
+          
+            
+              <category>Golang_Articles</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
         
         
       </item>
