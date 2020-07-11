@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://parksangkil.github.io/ko/posts/cicd/</loc>
+    <lastmod>2020-07-12T08:49:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/</loc>
+    <lastmod>2020-07-12T08:49:37+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parksangkil.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://parksangkil.github.io/ko/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/posts/</loc>
+    <lastmod>2020-07-12T08:49:37+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://parksangkil.github.io/ko/categories/</loc>
     <lastmod>2020-07-11T09:23:28+09:00</lastmod>
     <xhtml:link
@@ -34,26 +59,6 @@
   
   <url>
     <loc>https://parksangkil.github.io/ko/tags/kubernetes/</loc>
-    <lastmod>2020-07-11T09:23:28+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/</loc>
-    <lastmod>2020-07-11T09:23:28+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parksangkil.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://parksangkil.github.io/ko/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/posts/</loc>
     <lastmod>2020-07-11T09:23:28+09:00</lastmod>
   </url>
   
@@ -299,6 +304,10 @@
   
   <url>
     <loc>https://parksangkil.github.io/ko/tags/ci/cd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/categories/ci/cd/</loc>
   </url>
   
   <url>

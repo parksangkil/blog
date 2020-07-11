@@ -31,4 +31,7 @@ Lightweight upstream K8s
 
 Kubernetes on your macOS laptop with multipass, k3s, and Rancher 2.4 — Elasticsearch/Kibana in minutes!
  https://medium.com/@jyeee/kubernetes-on-your-macos-laptop-with-multipass-k3s-and-rancher-2-4-6e9cbf013f58
+
+K8s controller to manage Hashicorp Vault Configuration
+ https://github.com/gobins/vault-controller
  

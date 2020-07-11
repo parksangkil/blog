@@ -13,3 +13,6 @@ An easy and powerful Rust HTTP Client
 
 Rust ORM Framework High Performance Rust ORM(JSON based)
  https://github.com/rbatis/rbatis
+
+Rayon: A data parallelism library for Rust
+ https://github.com/rayon-rs/rayon
