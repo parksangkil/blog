@@ -14,13 +14,48 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 10 Jul 2020 08:28:03 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 09:23:28 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Cncf</title>
+        <link>https://parksangkil.github.io/ko/posts/cncf/</link>
+        <pubDate>Sat, 11 Jul 2020 09:23:28 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sat, 11 Jul 2020 09:23:28 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/cncf/</guid>
+        <description>Contour is a Kubernetes ingress controller using Lyft&amp;rsquo;s Envoy proxy.
+https://github.com/projectcontour/contour</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>ingress</category>
+            
+          
+        
+        
+          
+            
+              <category>CNCF</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Automation</title>
