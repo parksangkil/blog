@@ -7,3 +7,6 @@ tags: [puppeteer, playwright]
 
 Playwright vs. Puppeteer: Which should you choose?
  https://blog.logrocket.com/playwright-vs-puppeteer/
+
+Accessibility engine for automated Web UI testing
+ https://github.com/dequelabs/axe-core

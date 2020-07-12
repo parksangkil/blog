@@ -30,7 +30,9 @@
         <atom:modified>Fri, 10 Jul 2020 08:28:03 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/automation/</guid>
         <description>Playwright vs. Puppeteer: Which should you choose?
-https://blog.logrocket.com/playwright-vs-puppeteer/</description>
+https://blog.logrocket.com/playwright-vs-puppeteer/
+Accessibility engine for automated Web UI testing
+https://github.com/dequelabs/axe-core</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
