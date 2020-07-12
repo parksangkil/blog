@@ -22,6 +22,36 @@
 
       
       <item>
+        <title>CI/CD</title>
+        <link>https://parksangkil.github.io/ko/posts/cicd/</link>
+        <pubDate>Sun, 12 Jul 2020 08:49:37 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sun, 12 Jul 2020 08:49:37 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/cicd/</guid>
+        <description>Jenkins 업그레이드 및 Master-Slave 구성 https://taetaetae.github.io/2019/03/17/jenkins-upgrade-master-slave/</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>CI/CD</category>
+            
+          
+        
+        
+          
+            
+              <category>CI/CD</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>Kubernetes</title>
         <link>https://parksangkil.github.io/ko/posts/kubernetes/</link>
         <pubDate>Mon, 06 Jul 2020 08:22:43 +0900</pubDate>

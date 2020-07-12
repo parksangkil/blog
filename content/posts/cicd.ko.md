@@ -1,7 +1,7 @@
 ---
 title: "CI/CD"
 date: 2020-07-12T08:49:37+09:00
-categories:[CI/CD]
+categories: [CI/CD]
 tags: [CI/CD]
 ---
 

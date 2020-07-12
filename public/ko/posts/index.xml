@@ -14,13 +14,73 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 11 Jul 2020 09:23:28 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 10:10:15 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Rust Study</title>
+        <link>https://parksangkil.github.io/ko/posts/rust.study/</link>
+        <pubDate>Sun, 12 Jul 2020 10:10:15 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sun, 12 Jul 2020 10:10:15 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/rust.study/</guid>
+        <description>한국 러스트 사용자 그룹 https://rust-kr.org/ https://github.com/rust-kr</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>CI/CD</title>
+        <link>https://parksangkil.github.io/ko/posts/cicd/</link>
+        <pubDate>Sun, 12 Jul 2020 08:49:37 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sun, 12 Jul 2020 08:49:37 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/cicd/</guid>
+        <description>Jenkins 업그레이드 및 Master-Slave 구성 https://taetaetae.github.io/2019/03/17/jenkins-upgrade-master-slave/</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>CI/CD</category>
+            
+          
+        
+        
+          
+            
+              <category>CI/CD</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Cncf</title>
@@ -356,7 +416,9 @@ https://github.com/launchbadge/sqlx
 An easy and powerful Rust HTTP Client
 https://github.com/seanmonstar/reqwest
 Rust ORM Framework High Performance Rust ORM(JSON based)
-https://github.com/rbatis/rbatis</description>
+https://github.com/rbatis/rbatis
+Rayon: A data parallelism library for Rust
+https://github.com/rayon-rs/rayon</description>
         
         <dc:creator>Park SangKil</dc:creator>
         

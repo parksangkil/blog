@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Rust on Park Sangkil Tech Blog</title>
-    <link>https://parksangkil.github.io/ko/categories/rust/</link>
+    <link>https://parksangkil.github.io/ko/tags/rust/</link>
     <description>Recent content in Rust on Park Sangkil Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 12 Jul 2020 10:10:15 +0900</lastBuildDate>
     
-        <atom:link href="https://parksangkil.github.io/ko/categories/rust/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://parksangkil.github.io/ko/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -39,43 +39,6 @@
           
             
               <category>Rust</category>
-            
-          
-        
-        
-          
-            
-              <category>Rust</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Rust Libraries</title>
-        <link>https://parksangkil.github.io/ko/posts/rust.libraries/</link>
-        <pubDate>Sun, 28 Jun 2020 05:12:24 +0900</pubDate>
-        <author>ht1911@gmail.com (Park SangKil)</author>
-        <atom:modified>Sun, 28 Jun 2020 05:12:24 +0900</atom:modified>
-        <guid>https://parksangkil.github.io/ko/posts/rust.libraries/</guid>
-        <description>The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-https://github.com/launchbadge/sqlx
-An easy and powerful Rust HTTP Client
-https://github.com/seanmonstar/reqwest
-Rust ORM Framework High Performance Rust ORM(JSON based)
-https://github.com/rbatis/rbatis
-Rayon: A data parallelism library for Rust
-https://github.com/rayon-rs/rayon</description>
-        
-        <dc:creator>Park SangKil</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>Rust_library</category>
             
           
         
