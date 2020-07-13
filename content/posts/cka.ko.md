@@ -1,6 +1,8 @@
 ---
 title: "CKA(Certified Kubernetes Administrator)"
 date: 2020-07-02T17:15:19+09:00
+categories: [Kubernetes]
+tags: [Kubernetes, CKA]
 ---
 
 Certified Kubernetes Administrator (CKA) Program
@@ -17,3 +19,6 @@ CKA(Certified Kubernetes Administrator) 시험 후기
 
 CKA(Certified Kubernetes Administrator) 합격 후기 및 팁 공유
  https://blog.dudaji.com/kubernetes/2019/06/24/cka-acceptance-review-soonbee.html
+
+CKA 시험 정보 Portal ver1.0
+ https://sysnet4admin.blogspot.com/2020/07/cka-ver10.html
