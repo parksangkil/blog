@@ -13,4 +13,7 @@ A collection of 100+ popular LeetCode problems solved in Go.
 
 LeetCode by Go
  https://github.com/halfrost/LeetCode-Go
+
+datastructure-algorithm
+ https://github.com/code-mcx/datastructure-algorithm
  
