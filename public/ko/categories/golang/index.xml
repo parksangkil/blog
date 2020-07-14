@@ -67,7 +67,9 @@ https://github.com/austingebauer/go-leetcode
 LeetCode by Go
 https://github.com/halfrost/LeetCode-Go
 datastructure-algorithm
-https://github.com/code-mcx/datastructure-algorithm</description>
+https://github.com/code-mcx/datastructure-algorithm
+algorithm-pattern
+https://github.com/greyireland/algorithm-pattern</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -76,7 +78,7 @@ https://github.com/code-mcx/datastructure-algorithm</description>
         
           
             
-              <category>Golang_Algorithm</category>
+              <category>algorithm</category>
             
           
         

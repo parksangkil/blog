@@ -2,7 +2,7 @@
 title: "Golang Algorithm"
 date: 2020-06-22T04:43:02+09:00
 categories: [Golang]
-tags: [Golang_Algorithm]
+tags: [algorithm]
 ---
 
 MaxHeap in Golang
@@ -17,3 +17,5 @@ LeetCode by Go
 datastructure-algorithm
  https://github.com/code-mcx/datastructure-algorithm
  
+algorithm-pattern
+ https://github.com/greyireland/algorithm-pattern
