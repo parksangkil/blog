@@ -14,13 +14,112 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 13 Jun 2020 06:23:37 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 16:03:47 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Golang Interview</title>
+        <link>https://parksangkil.github.io/ko/posts/golang.interview/</link>
+        <pubDate>Sun, 28 Jun 2020 16:03:47 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sun, 28 Jun 2020 16:03:47 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/golang.interview/</guid>
+        <description>Collection of Technical Interview Questions solved with Go
+https://github.com/shomali11/go-interview</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang_Interview</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Golang Algorithm</title>
+        <link>https://parksangkil.github.io/ko/posts/golang.algorithm/</link>
+        <pubDate>Mon, 22 Jun 2020 04:43:02 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Mon, 22 Jun 2020 04:43:02 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/golang.algorithm/</guid>
+        <description>MaxHeap in Golang
+https://golangbyexample.com/maxheap-in-golang/
+A collection of 100+ popular LeetCode problems solved in Go.
+https://github.com/austingebauer/go-leetcode
+LeetCode by Go
+https://github.com/halfrost/LeetCode-Go</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang_Algorithm</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Golang Design Pattern</title>
+        <link>https://parksangkil.github.io/ko/posts/golang.designpattern/</link>
+        <pubDate>Mon, 22 Jun 2020 03:57:53 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Mon, 22 Jun 2020 03:57:53 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/golang.designpattern/</guid>
+        <description>Go Patterns
+http://tmrts.com/go-patterns/
+Flyweight Design Pattern in Go (Golang)
+https://golangbyexample.com/flyweight-design-pattern-golang/</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang_Design_Pattern</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Golang Project</title>

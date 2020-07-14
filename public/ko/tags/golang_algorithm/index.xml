@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Golang_Algorithm on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/golang_algorithm/</link>
+    <description>Recent content in Golang_Algorithm on Park Sangkil Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
+    <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 22 Jun 2020 04:43:02 +0900</lastBuildDate>
+    
+        <atom:link href="https://parksangkil.github.io/ko/tags/golang_algorithm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Golang Algorithm</title>
+        <link>https://parksangkil.github.io/ko/posts/golang.algorithm/</link>
+        <pubDate>Mon, 22 Jun 2020 04:43:02 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Mon, 22 Jun 2020 04:43:02 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/golang.algorithm/</guid>
+        <description>MaxHeap in Golang
+https://golangbyexample.com/maxheap-in-golang/
+A collection of 100+ popular LeetCode problems solved in Go.
+https://github.com/austingebauer/go-leetcode
+LeetCode by Go
+https://github.com/halfrost/LeetCode-Go</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang_Algorithm</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

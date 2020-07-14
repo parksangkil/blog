@@ -223,7 +223,17 @@
   </url>
   
   <url>
+    <loc>https://parksangkil.github.io/ko/categories/golang/</loc>
+    <lastmod>2020-06-28T16:03:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://parksangkil.github.io/ko/posts/golang.interview/</loc>
+    <lastmod>2020-06-28T16:03:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/golang_interview/</loc>
     <lastmod>2020-06-28T16:03:47+09:00</lastmod>
   </url>
   
@@ -243,7 +253,17 @@
   </url>
   
   <url>
+    <loc>https://parksangkil.github.io/ko/tags/golang_algorithm/</loc>
+    <lastmod>2020-06-22T04:43:02+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://parksangkil.github.io/ko/posts/golang.designpattern/</loc>
+    <lastmod>2020-06-22T03:57:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/golang_design_pattern/</loc>
     <lastmod>2020-06-22T03:57:53+09:00</lastmod>
   </url>
   
@@ -270,11 +290,6 @@
   <url>
     <loc>https://parksangkil.github.io/ko/posts/interview/</loc>
     <lastmod>2020-06-14T06:52:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/categories/golang/</loc>
-    <lastmod>2020-06-13T06:23:37+09:00</lastmod>
   </url>
   
   <url>
