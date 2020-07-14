@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>aws on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/aws/</link>
+    <description>Recent content in aws on Park Sangkil Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
+    <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 13 Jul 2020 07:13:48 +0900</lastBuildDate>
+    
+        <atom:link href="https://parksangkil.github.io/ko/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>AWS</title>
+        <link>https://parksangkil.github.io/ko/posts/aws/</link>
+        <pubDate>Mon, 13 Jul 2020 07:13:48 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Mon, 13 Jul 2020 07:13:48 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/aws/</guid>
+        <description>AWS 한국사용자모임 https://awskrug.github.io/index.html</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+          
+            
+              <category>AWS</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

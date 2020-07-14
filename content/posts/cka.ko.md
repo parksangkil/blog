@@ -2,7 +2,7 @@
 title: "CKA(Certified Kubernetes Administrator)"
 date: 2020-07-02T17:15:19+09:00
 categories: [Kubernetes]
-tags: [Kubernetes, CKA]
+tags: [Kubernetes, CKA, 자격증]
 ---
 
 Certified Kubernetes Administrator (CKA) Program

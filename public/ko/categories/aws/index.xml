@@ -6,30 +6,30 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>자격증 on Park Sangkil Tech Blog</title>
-    <link>https://parksangkil.github.io/ko/tags/%EC%9E%90%EA%B2%A9%EC%A6%9D/</link>
-    <description>Recent content in 자격증 on Park Sangkil Tech Blog</description>
+    <title>AWS on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/categories/aws/</link>
+    <description>Recent content in AWS on Park Sangkil Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 02 Jul 2020 17:15:19 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 07:13:48 +0900</lastBuildDate>
     
-        <atom:link href="https://parksangkil.github.io/ko/tags/%EC%9E%90%EA%B2%A9%EC%A6%9D/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://parksangkil.github.io/ko/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
-        <title>CKA(Certified Kubernetes Administrator)</title>
-        <link>https://parksangkil.github.io/ko/posts/cka/</link>
-        <pubDate>Thu, 02 Jul 2020 17:15:19 +0900</pubDate>
+        <title>AWS</title>
+        <link>https://parksangkil.github.io/ko/posts/aws/</link>
+        <pubDate>Mon, 13 Jul 2020 07:13:48 +0900</pubDate>
         <author>ht1911@gmail.com (Park SangKil)</author>
-        <atom:modified>Thu, 02 Jul 2020 17:15:19 +0900</atom:modified>
-        <guid>https://parksangkil.github.io/ko/posts/cka/</guid>
-        <description>Certified Kubernetes Administrator (CKA) Program https://www.cncf.io/certification/cka/ Certified Kubernetes Application Developer (CKAD) Program https://www.cncf.io/certification/ckad/ CKA 자격증 개요 https://kubetm.github.io/practice/cka/ready/ CKA(Certified Kubernetes Administrator) 시험 후기 https://ok-cp.tistory.com/4 CKA(Certified Kubernetes Administrator) 합격 후기 및 팁 공유 https://blog.dudaji.com/kubernetes/2019/06/24/cka-acceptance-review-soonbee.html CKA 시험 정보 Portal ver1.0 https://sysnet4admin.blogspot.com/2020/07/cka-ver10.html</description>
+        <atom:modified>Mon, 13 Jul 2020 07:13:48 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/aws/</guid>
+        <description>AWS 한국사용자모임 https://awskrug.github.io/index.html</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -38,22 +38,14 @@
         
           
             
-              <category>Kubernetes</category>
-            
-          
-            
-              <category>CKA</category>
-            
-          
-            
-              <category>자격증</category>
+              <category>aws</category>
             
           
         
         
           
             
-              <category>Kubernetes</category>
+              <category>AWS</category>
             
           
         

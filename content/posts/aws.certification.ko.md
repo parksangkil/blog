@@ -1,5 +1,5 @@
 ---
-title: "Aws 자격증 후기"
+title: "AWS 자격증 후기"
 date: 2020-06-18T07:05:43+09:00
 categories: [AWS]
 tags: [자격증]

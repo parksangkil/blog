@@ -14,7 +14,7 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 12 Jul 2020 10:10:15 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 07:13:48 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,36 @@
         
       
 
+      
+      <item>
+        <title>AWS</title>
+        <link>https://parksangkil.github.io/ko/posts/aws/</link>
+        <pubDate>Mon, 13 Jul 2020 07:13:48 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Mon, 13 Jul 2020 07:13:48 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/aws/</guid>
+        <description>AWS 한국사용자모임 https://awskrug.github.io/index.html</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+          
+            
+              <category>AWS</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Rust Study</title>
@@ -148,7 +178,9 @@ https://github.com/kubernetes-sigs/external-dns</description>
         <atom:modified>Fri, 10 Jul 2020 08:28:03 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/automation/</guid>
         <description>Playwright vs. Puppeteer: Which should you choose?
-https://blog.logrocket.com/playwright-vs-puppeteer/</description>
+https://blog.logrocket.com/playwright-vs-puppeteer/
+Accessibility engine for automated Web UI testing
+https://github.com/dequelabs/axe-core</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -339,13 +371,33 @@ https://github.com/wimdeblauwe/error-handling-spring-boot-starter</description>
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Thu, 02 Jul 2020 17:15:19 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/cka/</guid>
-        <description>Certified Kubernetes Administrator (CKA) Program https://www.cncf.io/certification/cka/ Certified Kubernetes Application Developer (CKAD) Program https://www.cncf.io/certification/ckad/ CKA 자격증 개요 https://kubetm.github.io/practice/cka/ready/ CKA(Certified Kubernetes Administrator) 시험 후기 https://ok-cp.tistory.com/4 CKA(Certified Kubernetes Administrator) 합격 후기 및 팁 공유 https://blog.dudaji.com/kubernetes/2019/06/24/cka-acceptance-review-soonbee.html</description>
+        <description>Certified Kubernetes Administrator (CKA) Program https://www.cncf.io/certification/cka/ Certified Kubernetes Application Developer (CKAD) Program https://www.cncf.io/certification/ckad/ CKA 자격증 개요 https://kubetm.github.io/practice/cka/ready/ CKA(Certified Kubernetes Administrator) 시험 후기 https://ok-cp.tistory.com/4 CKA(Certified Kubernetes Administrator) 합격 후기 및 팁 공유 https://blog.dudaji.com/kubernetes/2019/06/24/cka-acceptance-review-soonbee.html CKA 시험 정보 Portal ver1.0 https://sysnet4admin.blogspot.com/2020/07/cka-ver10.html</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
         
         
         
+          
+            
+              <category>Kubernetes</category>
+            
+          
+            
+              <category>CKA</category>
+            
+          
+            
+              <category>자격증</category>
+            
+          
+        
+        
+          
+            
+              <category>Kubernetes</category>
+            
+          
         
         
       </item>
@@ -414,13 +466,25 @@ https://github.com/wimdeblauwe/error-handling-spring-boot-starter</description>
         <atom:modified>Sun, 28 Jun 2020 16:03:47 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.interview/</guid>
         <description>Collection of Technical Interview Questions solved with Go
- https://github.com/shomali11/go-interview  </description>
+https://github.com/shomali11/go-interview</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
         
         
         
+          
+            
+              <category>Golang_Interview</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
         
         
       </item>
@@ -470,14 +534,33 @@ https://github.com/rayon-rs/rayon</description>
         <atom:modified>Mon, 22 Jun 2020 04:43:02 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.algorithm/</guid>
         <description>MaxHeap in Golang
- https://golangbyexample.com/maxheap-in-golang/  A collection of 100+ popular LeetCode problems solved in Go.
- https://github.com/austingebauer/go-leetcode  </description>
+https://golangbyexample.com/maxheap-in-golang/
+A collection of 100+ popular LeetCode problems solved in Go.
+https://github.com/austingebauer/go-leetcode
+LeetCode by Go
+https://github.com/halfrost/LeetCode-Go
+datastructure-algorithm
+https://github.com/code-mcx/datastructure-algorithm
+algorithm-pattern
+https://github.com/greyireland/algorithm-pattern</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
         
         
         
+          
+            
+              <category>algorithm</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
         
         
       </item>
@@ -490,20 +573,33 @@ https://github.com/rayon-rs/rayon</description>
         <atom:modified>Mon, 22 Jun 2020 03:57:53 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.designpattern/</guid>
         <description>Go Patterns
- http://tmrts.com/go-patterns/  Flyweight Design Pattern in Go (Golang)
- https://golangbyexample.com/flyweight-design-pattern-golang/  </description>
+http://tmrts.com/go-patterns/
+Flyweight Design Pattern in Go (Golang)
+https://golangbyexample.com/flyweight-design-pattern-golang/</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
         
         
         
+          
+            
+              <category>Golang_Design_Pattern</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
         
         
       </item>
       
       <item>
-        <title>Aws 자격증 후기</title>
+        <title>AWS 자격증 후기</title>
         <link>https://parksangkil.github.io/ko/posts/aws.certification/</link>
         <pubDate>Thu, 18 Jun 2020 07:05:43 +0900</pubDate>
         <author>ht1911@gmail.com (Park SangKil)</author>
@@ -516,6 +612,18 @@ https://github.com/rayon-rs/rayon</description>
         
         
         
+          
+            
+              <category>자격증</category>
+            
+          
+        
+        
+          
+            
+              <category>AWS</category>
+            
+          
         
         
       </item>
@@ -669,7 +777,7 @@ https://medium.com/@iDevoid/stygis-golang-hexagonal-architecture-a2d89d01f84b</d
       </item>
       
       <item>
-        <title>Golang.study</title>
+        <title>Golang Study</title>
         <link>https://parksangkil.github.io/ko/posts/golang.study/</link>
         <pubDate>Sat, 13 Jun 2020 06:21:16 +0900</pubDate>
         <author>ht1911@gmail.com (Park SangKil)</author>
