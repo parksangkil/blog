@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>database on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/database/</link>
+    <description>Recent content in database on Park Sangkil Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
+    <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 16 Jul 2020 06:23:49 +0900</lastBuildDate>
+    
+        <atom:link href="https://parksangkil.github.io/ko/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Database</title>
+        <link>https://parksangkil.github.io/ko/posts/database/</link>
+        <pubDate>Thu, 16 Jul 2020 06:23:49 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Thu, 16 Jul 2020 06:23:49 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/database/</guid>
+        <description>A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC. https://rickbergfalk.github.io/sqlpad/ Version control for your database. https://flywaydb.org/ Track, version, and deploy database changes https://www.liquibase.org/ ERD https://aquerytool.com/ https://www.erdcloud.com/ https://dbdiagram.io/ Universal Database Tool https://dbeaver.io/ DBA 커뮤니티 http://www.gurubee.net/ http://database.sarang.net/ http://www.dbguide.net/ http://www.sqler.com/ http://www.databaser.net/</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>database</category>
+            
+          
+        
+        
+          
+            
+              <category>Database</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
