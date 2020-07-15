@@ -22,3 +22,6 @@ CKA(Certified Kubernetes Administrator) 합격 후기 및 팁 공유
 
 CKA 시험 정보 Portal ver1.0
  https://sysnet4admin.blogspot.com/2020/07/cka-ver10.html
+
+10 steps for achieving the CKA certification
+ https://medium.com/devops-for-zombies/10-steps-to-achieve-the-cka-certification-6f2ad57887ab
