@@ -19,3 +19,6 @@ datastructure-algorithm
  
 algorithm-pattern
  https://github.com/greyireland/algorithm-pattern
+
+An implementation in GO (golang) of the basic algorithms and data structure.
+ https://github.com/maximelamure/algorithms

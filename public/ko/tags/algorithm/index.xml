@@ -38,7 +38,9 @@ https://github.com/halfrost/LeetCode-Go
 datastructure-algorithm
 https://github.com/code-mcx/datastructure-algorithm
 algorithm-pattern
-https://github.com/greyireland/algorithm-pattern</description>
+https://github.com/greyireland/algorithm-pattern
+An implementation in GO (golang) of the basic algorithms and data structure.
+https://github.com/maximelamure/algorithms</description>
         
         <dc:creator>Park SangKil</dc:creator>
         

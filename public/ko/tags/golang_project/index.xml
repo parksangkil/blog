@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Golang_Project on Park Sangkil Tech Blog</title>
+    <title>golang_project on Park Sangkil Tech Blog</title>
     <link>https://parksangkil.github.io/ko/tags/golang_project/</link>
-    <description>Recent content in Golang_Project on Park Sangkil Tech Blog</description>
+    <description>Recent content in golang_project on Park Sangkil Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
@@ -31,6 +31,8 @@
         <guid>https://parksangkil.github.io/ko/posts/golang.project/</guid>
         <description>Standard Go Project Layout
 https://github.com/golang-standards/project-layout
+Golang Service Project Baseline
+https://github.com/safing/portbase
 Cloud Native GoLang Microservices - gRPC, GraphQL
 https://github.com/xmlking/micro-starter-kit
 This repo contains examples and implementations of different types of GRPC services and APIs using Golang.
@@ -52,7 +54,7 @@ Complete serverless application to show how to apply DDD, Clean Architecture, an
         
           
             
-              <category>Golang_Project</category>
+              <category>golang_project</category>
             
           
         

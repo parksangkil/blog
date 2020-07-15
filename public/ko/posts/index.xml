@@ -551,7 +551,9 @@ https://github.com/halfrost/LeetCode-Go
 datastructure-algorithm
 https://github.com/code-mcx/datastructure-algorithm
 algorithm-pattern
-https://github.com/greyireland/algorithm-pattern</description>
+https://github.com/greyireland/algorithm-pattern
+An implementation in GO (golang) of the basic algorithms and data structure.
+https://github.com/maximelamure/algorithms</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -723,6 +725,8 @@ https://golangbyexample.com/flyweight-design-pattern-golang/</description>
         <guid>https://parksangkil.github.io/ko/posts/golang.project/</guid>
         <description>Standard Go Project Layout
 https://github.com/golang-standards/project-layout
+Golang Service Project Baseline
+https://github.com/safing/portbase
 Cloud Native GoLang Microservices - gRPC, GraphQL
 https://github.com/xmlking/micro-starter-kit
 This repo contains examples and implementations of different types of GRPC services and APIs using Golang.
@@ -744,7 +748,7 @@ Complete serverless application to show how to apply DDD, Clean Architecture, an
         
           
             
-              <category>Golang_Project</category>
+              <category>golang_project</category>
             
           
         

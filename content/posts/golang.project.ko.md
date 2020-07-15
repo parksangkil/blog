@@ -2,11 +2,14 @@
 title: "Golang Project"
 date: 2020-06-13T06:23:37+09:00
 categories: [Golang]
-tags: [Golang_Project]
+tags: [golang_project]
 ---
 
 Standard Go Project Layout
  https://github.com/golang-standards/project-layout
+
+Golang Service Project Baseline
+ https://github.com/safing/portbase
 
 Cloud Native GoLang Microservices - gRPC, GraphQL
  https://github.com/xmlking/micro-starter-kit
