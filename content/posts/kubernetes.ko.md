@@ -35,3 +35,5 @@ Kubernetes on your macOS laptop with multipass, k3s, and Rancher 2.4 — Elastic
 K8s controller to manage Hashicorp Vault Configuration
  https://github.com/gobins/vault-controller
  
+Visualize your Kubernetes workloads
+ https://octant.dev/
