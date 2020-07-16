@@ -18,6 +18,7 @@ ERD
  https://aquerytool.com/
  https://www.erdcloud.com/
  https://dbdiagram.io/
+ https://dbschema.com/
 
 Universal Database Tool
  https://dbeaver.io/
