@@ -29,7 +29,7 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sun, 12 Jul 2020 10:10:15 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/rust.study/</guid>
-        <description>한국 러스트 사용자 그룹 https://rust-kr.org/ https://github.com/rust-kr</description>
+        <description>한국 러스트 사용자 그룹 https://rust-kr.org/ https://github.com/rust-kr Learn Rust https://github.com/inancgumus/learnrust A curated list of Rust code and resources. https://github.com/rust-unofficial/awesome-rust Tour of Rust https://tourofrust.com/00_ko.html</description>
         
         <dc:creator>Park SangKil</dc:creator>
         

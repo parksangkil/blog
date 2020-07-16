@@ -37,3 +37,9 @@ K8s controller to manage Hashicorp Vault Configuration
  
 Visualize your Kubernetes workloads
  https://octant.dev/
+
+A tool to sync images from one container registry to another
+ https://github.com/plexsystems/sinker
+
+Helm 퀵스타트 가이드
+ https://helm.sh/ko/docs/intro/quickstart/
