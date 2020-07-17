@@ -1,7 +1,12 @@
 ---
 title: "Golang Study"
 date: 2020-06-13T06:21:16+09:00
+categories: [Golang]
+tags: [study]
 ---
+
+Effective Go
+ https://golang.org/doc/effective_go.html
 
 Go by Example
  https://mingrammer.com/gobyexample/
@@ -44,3 +49,12 @@ Generics in Go
 
 Learn Golang with mentoring
  https://bitfieldconsulting.com/golang/learn
+
+Practical Go: Real world advice for writing maintainable Go programs
+ https://dave.cheney.net/practical-go/presentations/qcon-china.html
+
+Twelve Go Best Practices
+ https://talks.golang.org/2013/bestpractices.slide#1
+
+12 Best Practices Every Golang Developer Must Follow
+ https://www.agiratech.com/12-best-golang-agile-practices-we-must-follow/

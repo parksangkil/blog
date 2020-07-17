@@ -46,3 +46,6 @@ Helm 퀵스타트 가이드
 
 Pod Security Policy
  https://containerlabs.kubedaily.com/Kubernetes/fundamentals/PodSecurityPolicy.html
+
+Securing Kubernetes Pods
+ https://containerlabs.kubedaily.com/Kubernetes/fundamentals/pod-security-1.html

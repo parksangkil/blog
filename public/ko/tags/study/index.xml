@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>study on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/study/</link>
+    <description>Recent content in study on Park Sangkil Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
+    <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 13 Jun 2020 06:21:16 +0900</lastBuildDate>
+    
+        <atom:link href="https://parksangkil.github.io/ko/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Golang Study</title>
+        <link>https://parksangkil.github.io/ko/posts/golang.study/</link>
+        <pubDate>Sat, 13 Jun 2020 06:21:16 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sat, 13 Jun 2020 06:21:16 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/golang.study/</guid>
+        <description>Effective Go https://golang.org/doc/effective_go.html Go by Example https://mingrammer.com/gobyexample/ Implementation of common Data Structures and Algorithms with Go https://github.com/punitpandey/ds-algo Collection of Technical Interview Questions solved with Go https://github.com/shomali11/go-interview Golang Tutorial https://www.golangprograms.com/ A Journey With Go https://medium.com/a-journey-with-go Exploring container package in Go (list, ring and heap) https://therebelsource.com/blog/exploring-container-package-in-go-list-ring-and-heap/9zTBiMaaYg Golang program for implementation of Radix Sort https://www.golangprograms.com/golang-program-for-implementation-of-radix-sort.html Learn Go with Tests https://quii.gitbook.io/learn-go-with-tests/ Welcome To Golang By Example https://golangbyexample.com/ Go 언어 웹 프로그</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>study</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
