@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>docker on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/docker/</link>
+    <description>Recent content in docker on Park Sangkil Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
+    <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 18 Jul 2020 06:21:29 +0900</lastBuildDate>
+    
+        <atom:link href="https://parksangkil.github.io/ko/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Container</title>
+        <link>https://parksangkil.github.io/ko/posts/container/</link>
+        <pubDate>Sat, 18 Jul 2020 06:21:29 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sat, 18 Jul 2020 06:21:29 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/container/</guid>
+        <description>하나씩 익히는 컨테이너 https://ssup2.github.io/categories/onebyone_container/</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>docker</category>
+            
+          
+        
+        
+          
+            
+              <category>Container</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

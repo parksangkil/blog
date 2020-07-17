@@ -43,3 +43,6 @@ A tool to sync images from one container registry to another
 
 Helm 퀵스타트 가이드
  https://helm.sh/ko/docs/intro/quickstart/
+
+Pod Security Policy
+ https://containerlabs.kubedaily.com/Kubernetes/fundamentals/PodSecurityPolicy.html

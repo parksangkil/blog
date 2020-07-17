@@ -14,13 +14,49 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 17 Jul 2020 09:18:15 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 06:27:06 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Git</title>
+        <link>https://parksangkil.github.io/ko/categories/git/</link>
+        <pubDate>Sat, 18 Jul 2020 06:27:06 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        
+        <guid>https://parksangkil.github.io/ko/categories/git/</guid>
+        <description></description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Container</title>
+        <link>https://parksangkil.github.io/ko/categories/container/</link>
+        <pubDate>Sat, 18 Jul 2020 06:21:29 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        
+        <guid>https://parksangkil.github.io/ko/categories/container/</guid>
+        <description></description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Network[]</title>
