@@ -29,7 +29,7 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Thu, 16 Jul 2020 06:23:49 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/database/</guid>
-        <description>A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC. https://rickbergfalk.github.io/sqlpad/ Version control for your database. https://flywaydb.org/ Track, version, and deploy database changes https://www.liquibase.org/ ERD https://aquerytool.com/ https://www.erdcloud.com/ https://dbdiagram.io/ https://dbschema.com/ Universal Database Tool https://dbeaver.io/ DBA 커뮤니티 http://www.gurubee.net/ http://database.sarang.net/ http://www.dbguide.net/ http://www.sqler.com/ http://www.databaser.net/</description>
+        <description>A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC. https://rickbergfalk.github.io/sqlpad/ Version control for your database. https://flywaydb.org/ Track, version, and deploy database changes https://www.liquibase.org/ ERD https://aquerytool.com/ https://www.erdcloud.com/ https://dbdiagram.io/ https://dbschema.com/ Universal Database Tool https://dbeaver.io/ DBA 커뮤니티 http://www.gurubee.net/ http://database.sarang.net/ http://www.dbguide.net/ http://www.sqler.com/ http://www.databaser.net/ 쿼리 최적화</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
