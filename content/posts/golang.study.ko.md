@@ -38,3 +38,9 @@ Go 101
 
 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
  https://github.com/inancgumus/learngo
+
+Generics in Go
+ https://bitfieldconsulting.com/golang/generics
+
+Learn Golang with mentoring
+ https://bitfieldconsulting.com/golang/learn
