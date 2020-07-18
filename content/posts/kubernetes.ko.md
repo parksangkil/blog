@@ -52,3 +52,6 @@ Securing Kubernetes Pods
 
 k3s is the lightweight Kubernetes distribution by Rancher
  https://morioh.com/p/2aa563e86d71?f=5c224490c513a556c9042463
+
+Define Kubernetes native apps and abstractions using object-oriented programming
+ https://github.com/awslabs/cdk8s

@@ -73,3 +73,6 @@ errcheck checks that you checked errors.
 
 A FileSystem Abstraction System for Go
  https://github.com/spf13/afero
+
+Learning about containers and how they work by creating them the hard way
+ https://github.com/shuveb/containers-the-hard-way

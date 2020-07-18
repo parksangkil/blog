@@ -22,3 +22,6 @@ Why You Should Be Using errgroup.WithContext() in Your Golang Server Handlers
 
 Go: Debugging with Delve & Core Dumps
  https://medium.com/a-journey-with-go/go-debugging-with-delve-core-dumps-384145b2e8d9
+
+Go is Boring...And That’s Fantastic!
+ https://www.capitalone.com/tech/software-engineering/go-is-boring/
