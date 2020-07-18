@@ -61,3 +61,5 @@ React 강의
  https://ljh86029926.gitbook.io/coding-apple-react/
  https://reactjsexample.com/
  
+Prettier is an opinionated code formatter.
+ https://github.com/prettier/prettier

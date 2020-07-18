@@ -14,13 +14,31 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 19 Jul 2020 07:10:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 08:22:02 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Test</title>
+        <link>https://parksangkil.github.io/ko/categories/test/</link>
+        <pubDate>Sun, 19 Jul 2020 08:22:02 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        
+        <guid>https://parksangkil.github.io/ko/categories/test/</guid>
+        <description></description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>MSA</title>
