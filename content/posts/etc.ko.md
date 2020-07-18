@@ -12,4 +12,7 @@ A Collection of application ideas which can be used to improve your coding skill
  https://github.com/florinpop17/app-ideas
 
 인터뷰 질문
- - https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+  https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+
+유용한 생산성 툴 몇가지 소개
+ https://velog.io/@chris/introducing-useful-productivity-tools

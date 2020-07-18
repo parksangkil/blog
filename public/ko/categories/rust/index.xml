@@ -14,13 +14,48 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 12 Jul 2020 10:10:15 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 06:53:58 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/categories/rust/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Rust.framework</title>
+        <link>https://parksangkil.github.io/ko/posts/rust.framework/</link>
+        <pubDate>Sun, 19 Jul 2020 06:53:58 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sun, 19 Jul 2020 06:53:58 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/rust.framework/</guid>
+        <description>Rust / Wasm framework for building client web apps
+https://github.com/yewstack/yew</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>rust</category>
+            
+          
+            
+              <category>framework</category>
+            
+          
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Rust Study</title>
@@ -76,6 +111,39 @@ https://github.com/rayon-rs/rayon</description>
           
             
               <category>Rust_library</category>
+            
+          
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Rust trending</title>
+        <link>https://parksangkil.github.io/ko/posts/rust.trending/</link>
+        <pubDate>Thu, 18 Jun 2020 06:33:13 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Thu, 18 Jun 2020 06:33:13 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/rust.trending/</guid>
+        <description>Async multi-producer multi-consumer channel
+https://github.com/stjepang/async-channel
+Rust language bindings for TensorFlow
+https://github.com/tensorflow/rust</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>rust</category>
             
           
         

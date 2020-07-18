@@ -25,3 +25,6 @@ Go: Debugging with Delve & Core Dumps
 
 Go is Boring...And That’s Fantastic!
  https://www.capitalone.com/tech/software-engineering/go-is-boring/
+
+Building a Golang Docker image
+ https://bitfieldconsulting.com/golang/docker-image

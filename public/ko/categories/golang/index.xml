@@ -180,7 +180,7 @@ Complete serverless application to show how to apply DDD, Clean Architecture, an
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sat, 13 Jun 2020 06:21:16 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.study/</guid>
-        <description>Effective Go https://golang.org/doc/effective_go.html Go by Example https://mingrammer.com/gobyexample/ Implementation of common Data Structures and Algorithms with Go https://github.com/punitpandey/ds-algo Collection of Technical Interview Questions solved with Go https://github.com/shomali11/go-interview Golang Tutorial https://www.golangprograms.com/ A Journey With Go https://medium.com/a-journey-with-go Exploring container package in Go (list, ring and heap) https://therebelsource.com/blog/exploring-container-package-in-go-list-ring-and-heap/9zTBiMaaYg Golang program for implementation of Radix Sort https://www.golangprograms.com/golang-program-for-implementation-of-radix-sort.html Learn Go with Tests https://quii.gitbook.io/learn-go-with-tests/ Welcome To Golang By Example https://golangbyexample.com/ Go 언어 웹 프로그</description>
+        <description>Build fast, reliable, and efficient software at scale https://go.dev/ https://godoc.org/ https://pkg.go.dev/ Effective Go https://golang.org/doc/effective_go.html Go by Example https://mingrammer.com/gobyexample/ Implementation of common Data Structures and Algorithms with Go https://github.com/punitpandey/ds-algo Collection of Technical Interview Questions solved with Go https://github.com/shomali11/go-interview Golang Tutorial https://www.golangprograms.com/ A Journey With Go https://medium.com/a-journey-with-go Exploring container package in Go (list, ring and heap) https://therebelsource.com/blog/exploring-container-package-in-go-list-ring-and-heap/9zTBiMaaYg Golang program for implementation of Radix Sort https://www.golangprograms.com/golang-program-for-implementation-of-radix-sort.html Learn Go with Tests https://quii.gitbook.io/learn-go-with-tests/ Welcome To</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
@@ -223,7 +223,9 @@ https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-gol
 Go: Debugging with Delve &amp;amp; Core Dumps
 https://medium.com/a-journey-with-go/go-debugging-with-delve-core-dumps-384145b2e8d9
 Go is Boring&amp;hellip;And That’s Fantastic!
-https://www.capitalone.com/tech/software-engineering/go-is-boring/</description>
+https://www.capitalone.com/tech/software-engineering/go-is-boring/
+Building a Golang Docker image
+https://bitfieldconsulting.com/golang/docker-image</description>
         
         <dc:creator>Park SangKil</dc:creator>
         

@@ -5,6 +5,11 @@ categories: [Golang]
 tags: [study]
 ---
 
+Build fast, reliable, and efficient software at scale
+ https://go.dev/
+ https://godoc.org/
+ https://pkg.go.dev/
+
 Effective Go
  https://golang.org/doc/effective_go.html
 

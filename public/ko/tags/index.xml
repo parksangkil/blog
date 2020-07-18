@@ -14,13 +14,67 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 18 Jul 2020 06:27:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 07:10:23 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>msa</title>
+        <link>https://parksangkil.github.io/ko/tags/msa/</link>
+        <pubDate>Sun, 19 Jul 2020 07:10:23 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        
+        <guid>https://parksangkil.github.io/ko/tags/msa/</guid>
+        <description></description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>framework</title>
+        <link>https://parksangkil.github.io/ko/tags/framework/</link>
+        <pubDate>Sun, 19 Jul 2020 06:53:58 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        
+        <guid>https://parksangkil.github.io/ko/tags/framework/</guid>
+        <description></description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>rust</title>
+        <link>https://parksangkil.github.io/ko/tags/rust/</link>
+        <pubDate>Sun, 19 Jul 2020 06:53:58 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        
+        <guid>https://parksangkil.github.io/ko/tags/rust/</guid>
+        <description></description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>git</title>
@@ -137,24 +191,6 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         
         <guid>https://parksangkil.github.io/ko/tags/aws/</guid>
-        <description></description>
-        
-        <dc:creator>Park SangKil</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>rust</title>
-        <link>https://parksangkil.github.io/ko/tags/rust/</link>
-        <pubDate>Sun, 12 Jul 2020 10:10:15 +0900</pubDate>
-        <author>ht1911@gmail.com (Park SangKil)</author>
-        
-        <guid>https://parksangkil.github.io/ko/tags/rust/</guid>
         <description></description>
         
         <dc:creator>Park SangKil</dc:creator>
@@ -353,6 +389,24 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         
         <guid>https://parksangkil.github.io/ko/tags/%EC%9E%90%EA%B2%A9%EC%A6%9D/</guid>
+        <description></description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>devops</title>
+        <link>https://parksangkil.github.io/ko/tags/devops/</link>
+        <pubDate>Thu, 02 Jul 2020 06:50:28 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        
+        <guid>https://parksangkil.github.io/ko/tags/devops/</guid>
         <description></description>
         
         <dc:creator>Park SangKil</dc:creator>

@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://parksangkil.github.io/ko/categories/</loc>
-    <lastmod>2020-07-18T06:27:06+09:00</lastmod>
+    <lastmod>2020-07-19T07:10:23+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +15,76 @@
                 hreflang="ko"
                 href="https://parksangkil.github.io/ko/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/posts/msa/</loc>
+    <lastmod>2020-07-19T07:10:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/categories/msa/</loc>
+    <lastmod>2020-07-19T07:10:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/msa/</loc>
+    <lastmod>2020-07-19T07:10:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/</loc>
+    <lastmod>2020-07-19T07:10:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parksangkil.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://parksangkil.github.io/ko/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/posts/</loc>
+    <lastmod>2020-07-19T07:10:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/</loc>
+    <lastmod>2020-07-19T07:10:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://parksangkil.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://parksangkil.github.io/ko/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/framework/</loc>
+    <lastmod>2020-07-19T06:53:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/categories/rust/</loc>
+    <lastmod>2020-07-19T06:53:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/rust/</loc>
+    <lastmod>2020-07-19T06:53:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/posts/rust.framework/</loc>
+    <lastmod>2020-07-19T06:53:58+09:00</lastmod>
   </url>
   
   <url>
@@ -35,41 +105,6 @@
   <url>
     <loc>https://parksangkil.github.io/ko/tags/github/</loc>
     <lastmod>2020-07-18T06:27:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/</loc>
-    <lastmod>2020-07-18T06:27:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parksangkil.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://parksangkil.github.io/ko/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/posts/</loc>
-    <lastmod>2020-07-18T06:27:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/tags/</loc>
-    <lastmod>2020-07-18T06:27:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://parksangkil.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://parksangkil.github.io/ko/tags/"
-                />
   </url>
   
   <url>
@@ -135,16 +170,6 @@
   <url>
     <loc>https://parksangkil.github.io/ko/tags/aws/</loc>
     <lastmod>2020-07-13T07:13:48+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/categories/rust/</loc>
-    <lastmod>2020-07-12T10:10:15+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/tags/rust/</loc>
-    <lastmod>2020-07-12T10:10:15+09:00</lastmod>
   </url>
   
   <url>
@@ -288,7 +313,17 @@
   </url>
   
   <url>
+    <loc>https://parksangkil.github.io/ko/categories/devops/</loc>
+    <lastmod>2020-07-02T06:50:28+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://parksangkil.github.io/ko/posts/devops/</loc>
+    <lastmod>2020-07-02T06:50:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/tags/devops/</loc>
     <lastmod>2020-07-02T06:50:28+09:00</lastmod>
   </url>
   

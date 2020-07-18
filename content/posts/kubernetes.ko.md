@@ -55,3 +55,6 @@ k3s is the lightweight Kubernetes distribution by Rancher
 
 Define Kubernetes native apps and abstractions using object-oriented programming
  https://github.com/awslabs/cdk8s
+
+Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+ https://github.com/kelseyhightower/kubernetes-the-hard-way
