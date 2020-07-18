@@ -49,3 +49,6 @@ Pod Security Policy
 
 Securing Kubernetes Pods
  https://containerlabs.kubedaily.com/Kubernetes/fundamentals/pod-security-1.html
+
+k3s is the lightweight Kubernetes distribution by Rancher
+ https://morioh.com/p/2aa563e86d71?f=5c224490c513a556c9042463
