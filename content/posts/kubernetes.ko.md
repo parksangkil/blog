@@ -61,3 +61,6 @@ Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 
 Kubernetes 101 Series - Pods and Pod Lifecycle
  https://www.enterprisedaddy.com/2020/06/kubernetes-101-series-pods-and-pod-lifecycle/
+
+Kubernetes ErrImagePull - Using Docker Private Registry
+ https://waspro.tistory.com/570
