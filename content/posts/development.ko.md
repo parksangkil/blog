@@ -19,3 +19,6 @@ direnv로 디렉토리(프로젝트) 별 개발환경 구축하기
 
 개발환경을 한 방에! 쉘 스크립트의 힘
  https://woowabros.github.io/tools/2017/08/17/ost_bash.html
+ 
+vagrant 설치 in OSX
+ https://junho85.pe.kr/1426

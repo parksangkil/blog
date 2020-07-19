@@ -19,3 +19,6 @@ Memory Layout of Objects in Java
 
 Eugenp
  https://github.com/eugenp/tutorials
+ 
+Data Structures and Algorithms in Java
+ https://www.javaguides.net/p/data-structures-and-algorithms-in-java.html
