@@ -66,3 +66,12 @@ Twelve Go Best Practices
 
 Channel Use Cases
  https://go101.org/article/channel-use-cases.html
+
+Go maps: declaring and initializing
+ https://bitfieldconsulting.com/golang/map-declaring-initializing
+
+Concurrency in Go
+ https://dev.to/ghvstcode/concurrency-in-go-39ig
+
+Unit Test Outbound HTTP Requests in Golang
+ https://erikwinter.nl/notes/2020/unit_test_outbound_http_requests_in_golang/

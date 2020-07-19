@@ -26,3 +26,6 @@ Noob q - is there a resource/book about rust best practices?
 
 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
  https://github.com/mre/idiomatic-rust
+
+Clear explanation of Rust’s module system
+ http://www.sheshbabu.com/posts/rust-module-system/
