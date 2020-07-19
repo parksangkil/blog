@@ -63,3 +63,6 @@ Twelve Go Best Practices
 
 12 Best Practices Every Golang Developer Must Follow
  https://www.agiratech.com/12-best-golang-agile-practices-we-must-follow/
+
+Channel Use Cases
+ https://go101.org/article/channel-use-cases.html
