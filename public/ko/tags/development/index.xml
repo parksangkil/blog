@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>development on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/development/</link>
+    <description>Recent content in development on Park Sangkil Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
+    <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 19 Jul 2020 12:12:50 +0900</lastBuildDate>
+    
+        <atom:link href="https://parksangkil.github.io/ko/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Development</title>
+        <link>https://parksangkil.github.io/ko/posts/development/</link>
+        <pubDate>Sun, 19 Jul 2020 12:12:50 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sun, 19 Jul 2020 12:12:50 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/development/</guid>
+        <description>The Software Development Kit Manager https://sdkman.io/ macOS에 개발 환경 구축하기 https://subicura.com/2017/11/22/mac-os-development-environment-setup.html</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>development</category>
+            
+          
+        
+        
+          
+            
+              <category>Development</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
