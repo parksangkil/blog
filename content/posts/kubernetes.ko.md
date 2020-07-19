@@ -58,3 +58,6 @@ Define Kubernetes native apps and abstractions using object-oriented programming
 
 Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
  https://github.com/kelseyhightower/kubernetes-the-hard-way
+
+Kubernetes 101 Series - Pods and Pod Lifecycle
+ https://www.enterprisedaddy.com/2020/06/kubernetes-101-series-pods-and-pod-lifecycle/
