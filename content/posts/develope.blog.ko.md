@@ -7,3 +7,6 @@ tags: [BLOG]
 
 재그지그의 개발 블로그
  https://wormwlrm.github.io/
+
+Wedul
+ https://wedul.site/
