@@ -64,3 +64,9 @@ Kubernetes 101 Series - Pods and Pod Lifecycle
 
 Kubernetes ErrImagePull - Using Docker Private Registry
  https://waspro.tistory.com/570
+
+AWS Best practice for Amazon Elastic Kubernetes Service (EKS)
+ https://medium.com/faun/aws-best-practice-for-amazon-elastic-kubernetes-service-eks-7ae468869724
+
+Kubernetes Deployment With Helm Charts
+ https://www.magalix.com/blog/kubernetes-deployment-with-helm-charts
