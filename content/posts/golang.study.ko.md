@@ -75,3 +75,6 @@ Concurrency in Go
 
 Unit Test Outbound HTTP Requests in Golang
  https://erikwinter.nl/notes/2020/unit_test_outbound_http_requests_in_golang/
+
+A Journey With Go
+ https://medium.com/a-journey-with-go
