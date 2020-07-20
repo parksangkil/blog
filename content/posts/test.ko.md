@@ -19,3 +19,6 @@ A hinting engine for the web
 
 Load test as code
  https://gatling.io/
+
+Writing integration tests with Testcontainers
+ https://balarawool.me/writing-integration-tests-with-testcontainers/
