@@ -42,4 +42,7 @@ AWS Solutions Architect — Associate certificate Study— 공식 문서 정리 
 AWS 자격증 시험 - 클라우드 종사자(Cloud Practitioner) 후기
  https://yongho1037.tistory.com/783
 
+AWS 솔루션 아키텍트 어소시에이트 시험 문제 둘러보기 (정답 및 해설 포함)
+ https://m.blog.naver.com/PostView.nhn?blogId=naebon&logNo=221887849673
+
 
