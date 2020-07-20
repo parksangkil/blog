@@ -63,3 +63,6 @@ React 강의
  
 Prettier is an opinionated code formatter.
  https://github.com/prettier/prettier
+
+JavaScript 101: Design Patterns
+ https://www.codespot.org/javascript-101-design-patterns/
