@@ -84,3 +84,6 @@ Go (Golang): Your Cheatsheet On Ways To Create New Maps And Slices
 
 How to: Global Constant Maps, Slices, & Arrays in Golang
  https://qvault.io/2019/10/21/golang-constant-maps-slices/
+
+Go Programming Language Packages
+ https://www.golangprograms.com/go-programming-language-packages.html
