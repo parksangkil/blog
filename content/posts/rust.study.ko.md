@@ -29,3 +29,6 @@ A peer-reviewed collection of articles/talks/repos which teach concise, idiomati
 
 Clear explanation of Rust’s module system
  http://www.sheshbabu.com/posts/rust-module-system/
+
+Rust explained using easy English
+ https://github.com/Dhghomon/easy_rust
