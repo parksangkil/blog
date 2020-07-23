@@ -22,3 +22,6 @@ Load test as code
 
 Writing integration tests with Testcontainers
  https://balarawool.me/writing-integration-tests-with-testcontainers/
+
+To Puppeteer, or to Cypress
+ https://dev.to/jalal246/to-puppeteer-or-to-cypress-4ccl
