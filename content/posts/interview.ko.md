@@ -11,3 +11,6 @@ Golang Interview Questions
 
 Front End Interview Handbook
  https://yangshun.github.io/front-end-interview-handbook/kr/html-questions/
+
+Collection of Technical Interview Questions solved with Go
+ https://github.com/shomali11/go-interview
