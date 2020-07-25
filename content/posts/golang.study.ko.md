@@ -87,3 +87,6 @@ How to: Global Constant Maps, Slices, & Arrays in Golang
 
 Go Programming Language Packages
  https://www.golangprograms.com/go-programming-language-packages.html
+
+Securing Your Go REST APIs With JWTs
+ https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/
