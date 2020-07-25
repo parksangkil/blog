@@ -32,3 +32,6 @@ Clear explanation of Rust’s module system
 
 Rust explained using easy English
  https://github.com/Dhghomon/easy_rust
+
+Rust Study
+ https://rust.graystorm.com/
