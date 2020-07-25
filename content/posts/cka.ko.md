@@ -28,3 +28,6 @@ CKA 시험 정보 Portal ver1.0
 
 CKA/CKAD exam: Managing ETCD cluster
  https://itnext.io/cka-ckad-exam-managing-etcd-cluster-fc3feecfab5c
+
+CKA(Kubernetes 자격증) 잘 준비하는 법
+ https://www.slideshare.net/InfraEngineer/how-to-prepare-well-for-cka-exam
