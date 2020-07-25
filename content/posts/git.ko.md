@@ -19,3 +19,6 @@ deploy 브랜치 전략 활용 방법
 
 Git을 이용한 협업 워크플로우
  https://lhy.kr/git-workflow
+
+git flow model 수업
+ https://www.youtube.com/watch?v=EzcF6RX8RrQ

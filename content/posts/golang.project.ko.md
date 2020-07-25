@@ -37,3 +37,6 @@ Golang Microservices Boilerplate
 
 Golang Course With Building a Fintech Banking App
  https://www.blog.duomly.com/golang-course-with-building-a-fintech-banking-app-lesson-1-start-the-project/
+
+Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love.
+ https://github.com/squzy/squzy
