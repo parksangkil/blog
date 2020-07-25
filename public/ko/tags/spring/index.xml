@@ -29,10 +29,7 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Tue, 07 Jul 2020 20:35:55 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/spring/</guid>
-        <description>A library for handling Problems in Spring Web MVC
-https://github.com/zalando/problem-spring-web
-Spring Boot starter for configurable REST API error handling
-https://github.com/wimdeblauwe/error-handling-spring-boot-starter</description>
+        <description>A library for handling Problems in Spring Web MVC https://github.com/zalando/problem-spring-web Spring Boot starter for configurable REST API error handling https://github.com/wimdeblauwe/error-handling-spring-boot-starter 학습 및 각종 실험을 위한 코드 조각 모음 https://github.com/scratchstudio</description>
         
         <dc:creator>Park SangKil</dc:creator>
         

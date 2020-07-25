@@ -10,3 +10,6 @@ A library for handling Problems in Spring Web MVC
 
 Spring Boot starter for configurable REST API error handling
  https://github.com/wimdeblauwe/error-handling-spring-boot-starter
+
+학습 및 각종 실험을 위한 코드 조각 모음
+ https://github.com/scratchstudio
