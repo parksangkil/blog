@@ -25,3 +25,6 @@ CKA 시험 정보 Portal ver1.0
 
 10 steps for achieving the CKA certification
  https://medium.com/devops-for-zombies/10-steps-to-achieve-the-cka-certification-6f2ad57887ab
+
+CKA/CKAD exam: Managing ETCD cluster
+ https://itnext.io/cka-ckad-exam-managing-etcd-cluster-fc3feecfab5c

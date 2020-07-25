@@ -35,3 +35,7 @@ Rust explained using easy English
 
 Rust Study
  https://rust.graystorm.com/
+
+Async/Await for AVR with Rust
+ https://lights0123.com/blog/2020/07/25/async-await-for-avr-with-rust/
+
