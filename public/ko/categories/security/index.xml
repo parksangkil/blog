@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Security on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/categories/security/</link>
+    <description>Recent content in Security on Park Sangkil Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
+    <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 27 Jul 2020 07:33:31 +0900</lastBuildDate>
+    
+        <atom:link href="https://parksangkil.github.io/ko/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Security</title>
+        <link>https://parksangkil.github.io/ko/posts/security.blog/</link>
+        <pubDate>Mon, 27 Jul 2020 07:33:31 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Mon, 27 Jul 2020 07:33:31 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/security.blog/</guid>
+        <description>[서버개발캠프] Refresh JWT 구현을 위한 배경지식과 설계 https://velog.io/@tlatldms/%EC%84%9C%EB%B2%84%EA%B0%9C%EB%B0%9C%EC%BA%A0%ED%94%84-Refresh-JWT-%EA%B5%AC%ED%98%84 Securing Your Go REST APIs With JWTs https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>security</category>
+            
+          
+        
+        
+          
+            
+              <category>Security</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

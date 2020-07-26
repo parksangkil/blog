@@ -14,13 +14,31 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 27 Jul 2020 07:31:17 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 07:33:31 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Security</title>
+        <link>https://parksangkil.github.io/ko/categories/security/</link>
+        <pubDate>Mon, 27 Jul 2020 07:33:31 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        
+        <guid>https://parksangkil.github.io/ko/categories/security/</guid>
+        <description></description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Springboot</title>
