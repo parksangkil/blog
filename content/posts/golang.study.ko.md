@@ -90,3 +90,6 @@ Go Programming Language Packages
 
 Securing Your Go REST APIs With JWTs
  https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/
+
+Sorting Data in Go
+ https://dev.to/spindriftboi/sorting-data-in-go-1k6p
