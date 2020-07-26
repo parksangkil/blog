@@ -70,3 +70,9 @@ AWS Best practice for Amazon Elastic Kubernetes Service (EKS)
 
 Kubernetes Deployment With Helm Charts
  https://www.magalix.com/blog/kubernetes-deployment-with-helm-charts
+
+Service Types in Kubernetes?
+ https://medium.com/faun/service-types-in-kubernetes-24a1587677d6
+
+A Simple Approach for Injecting Secrets Into EKS Using AWS Secrets Manager and CodeBuild
+ https://medium.com/@michaellarocca90/a-simple-approach-for-injecting-secrets-into-eks-using-aws-secrets-manager-and-codebuild-b0d45a8faa1

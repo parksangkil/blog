@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>springboot on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/springboot/</link>
+    <description>Recent content in springboot on Park Sangkil Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
+    <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 27 Jul 2020 07:31:17 +0900</lastBuildDate>
+    
+        <atom:link href="https://parksangkil.github.io/ko/tags/springboot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Springboot</title>
+        <link>https://parksangkil.github.io/ko/posts/springboot.blog/</link>
+        <pubDate>Mon, 27 Jul 2020 07:31:17 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Mon, 27 Jul 2020 07:31:17 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/springboot.blog/</guid>
+        <description>스프링부트 다중 데이터소스(톰캣 DBCP) 설정 https://javacan.tistory.com/entry/springboot-multi-datasource</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>springboot</category>
+            
+          
+        
+        
+          
+            
+              <category>Springboot</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
