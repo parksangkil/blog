@@ -31,4 +31,9 @@ JVM(Java Virtual Machine) Architecture
 
 [더 자바] JVM 이해하기
  https://dailyheumsi.tistory.com/196
+
+7 Best Courses to learn JVM, Garbage Collection, and Performance Tuning for Experienced Java developers
+ https://medium.com/javarevisited/7-best-courses-to-learn-jvm-garbage-collection-and-performance-tuning-for-experienced-java-331705180686
  
+ Let me show you how easy and efficient Hibernate is! 
+  https://thorben-janssen.com/
