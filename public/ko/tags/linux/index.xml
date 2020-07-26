@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>shell on Park Sangkil Tech Blog</title>
-    <link>https://parksangkil.github.io/ko/tags/shell/</link>
-    <description>Recent content in shell on Park Sangkil Tech Blog</description>
+    <title>linux on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/linux/</link>
+    <description>Recent content in linux on Park Sangkil Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 20 Jul 2020 21:08:09 +0900</lastBuildDate>
     
-        <atom:link href="https://parksangkil.github.io/ko/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://parksangkil.github.io/ko/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     

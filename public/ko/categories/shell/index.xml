@@ -30,13 +30,19 @@
         <atom:modified>Mon, 20 Jul 2020 21:08:09 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/shell/</guid>
         <description>Bash Scripting Tutorial for Beginners
-https://www.technicalmint.com/linux/bash-scripting-tutorial-for-beginners-part1/</description>
+https://www.technicalmint.com/linux/bash-scripting-tutorial-for-beginners-part1/
+The Linux join Command
+https://www.baeldung.com/linux/join-command</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
         
         
         
+          
+            
+              <category>linux</category>
+            
           
             
               <category>shell</category>
