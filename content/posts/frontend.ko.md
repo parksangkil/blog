@@ -66,3 +66,6 @@ Prettier is an opinionated code formatter.
 
 JavaScript 101: Design Patterns
  https://www.codespot.org/javascript-101-design-patterns/
+
+어서 와, SSR은 처음이지? - 개발 편
+ https://d2.naver.com/helloworld/2177909
