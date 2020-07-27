@@ -22,3 +22,6 @@ algorithm-pattern
 
 An implementation in GO (golang) of the basic algorithms and data structure.
  https://github.com/maximelamure/algorithms
+
+A collection of 100+ popular LeetCode problems solved in Go.
+ https://github.com/austingebauer/go-leetcode

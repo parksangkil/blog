@@ -79,3 +79,6 @@ Learning about containers and how they work by creating them the hard way
 
 Go Library to Execute Commands Over SSH at Scale
  https://github.com/yahoo/vssh
+
+Diago is a visualization tool for CPU profiles and heap snapshots generated with `pprof`.
+ https://github.com/remeh/diago
