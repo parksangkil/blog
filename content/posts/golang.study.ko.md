@@ -99,3 +99,6 @@ Code Coverage in GoLang
 
 How to Parse JSON That Varies Between an Array or a Single Item With Go
  https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/
+
+How to Parse JSON That Varies Between an Array or a Single Item With Go
+ https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/
