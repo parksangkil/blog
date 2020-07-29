@@ -96,3 +96,6 @@ Sorting Data in Go
 
 Code Coverage in GoLang
  https://golangdocs.com/code-coverage-in-golang
+
+How to Parse JSON That Varies Between an Array or a Single Item With Go
+ https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/
