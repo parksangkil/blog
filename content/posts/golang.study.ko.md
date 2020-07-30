@@ -102,3 +102,6 @@ How to Parse JSON That Varies Between an Array or a Single Item With Go
 
 How to Parse JSON That Varies Between an Array or a Single Item With Go
  https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/
+
+Golang, Domain-Driven Design and Continuous Delivery.
+ https://github.com/ThreeDotsLabs
