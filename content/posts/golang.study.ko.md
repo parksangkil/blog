@@ -105,3 +105,6 @@ How to Parse JSON That Varies Between an Array or a Single Item With Go
 
 Golang, Domain-Driven Design and Continuous Delivery.
  https://github.com/ThreeDotsLabs
+
+Comparing Crystal’s concurrency with that of Go (Part I)
+ https://itnext.io/comparing-crystals-concurrency-with-that-of-go-s-part-i-cd45a3388935
