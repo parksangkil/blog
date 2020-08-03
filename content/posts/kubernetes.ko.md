@@ -76,3 +76,6 @@ Service Types in Kubernetes?
 
 A Simple Approach for Injecting Secrets Into EKS Using AWS Secrets Manager and CodeBuild
  https://medium.com/@michaellarocca90/a-simple-approach-for-injecting-secrets-into-eks-using-aws-secrets-manager-and-codebuild-b0d45a8faa1
+
+Deploying a containerized Go app on Kubernetes
+ https://www.callicoder.com/deploy-containerized-go-app-kubernetes/
