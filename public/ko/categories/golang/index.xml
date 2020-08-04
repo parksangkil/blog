@@ -14,13 +14,44 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 31 Jul 2020 06:06:11 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 06:13:40 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Golang Test</title>
+        <link>https://parksangkil.github.io/ko/posts/golang.test/</link>
+        <pubDate>Wed, 05 Aug 2020 06:13:40 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Wed, 05 Aug 2020 06:13:40 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/golang.test/</guid>
+        <description>Example of parsing an input text containing rectangles
+ https://github.com/mcaci/rectangles-example  </description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>test</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Golang Standard</title>
