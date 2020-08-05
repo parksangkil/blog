@@ -79,3 +79,6 @@ A Simple Approach for Injecting Secrets Into EKS Using AWS Secrets Manager and C
 
 Deploying a containerized Go app on Kubernetes
  https://www.callicoder.com/deploy-containerized-go-app-kubernetes/
+
+Running Spring Boot in Kubernetes
+ https://github.com/PheaSoy/spring-boot-kubernetes
