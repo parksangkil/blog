@@ -108,3 +108,6 @@ Golang, Domain-Driven Design and Continuous Delivery.
 
 Comparing Crystal’s concurrency with that of Go (Part I)
  https://itnext.io/comparing-crystals-concurrency-with-that-of-go-s-part-i-cd45a3388935
+
+Generics are the Generics of Go
+ https://medium.com/capital-one-tech/generics-are-the-generics-of-go-3e0ef0cb9e04
