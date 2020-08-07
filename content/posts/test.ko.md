@@ -28,3 +28,6 @@ To Puppeteer, or to Cypress
 
 Protractor Tutorial
  https://www.javacodegeeks.com/2020/07/protractor-tutorial-end-to-end-testing-for-angularjs.html
+
+Bash Automated Testing System
+ https://github.com/bats-core/bats-core

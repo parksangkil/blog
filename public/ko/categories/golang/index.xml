@@ -30,7 +30,9 @@
         <atom:modified>Wed, 05 Aug 2020 06:13:40 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.test/</guid>
         <description>Example of parsing an input text containing rectangles
- https://github.com/mcaci/rectangles-example  </description>
+https://github.com/mcaci/rectangles-example
+HTTP mocking to test API services for chaos scenarios
+https://github.com/Trendyol/gaos</description>
         
         <dc:creator>Park SangKil</dc:creator>
         

@@ -6,4 +6,7 @@ tags: [test]
 ---
 
 Example of parsing an input text containing rectangles
- - https://github.com/mcaci/rectangles-example
+ https://github.com/mcaci/rectangles-example
+
+HTTP mocking to test API services for chaos scenarios
+ https://github.com/Trendyol/gaos
