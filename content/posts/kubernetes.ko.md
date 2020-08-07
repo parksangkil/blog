@@ -85,3 +85,6 @@ Running Spring Boot in Kubernetes
 
 An Ultimate Kubernetes Hands-on Labs
  https://collabnix.github.io/kubelabs/
+
+Kustomize를 이용한 쿠버네티스 오브젝트의 선언형 관리
+ https://kubernetes.io/ko/docs/tasks/manage-kubernetes-objects/kustomization/
