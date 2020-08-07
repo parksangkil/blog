@@ -10,3 +10,6 @@ Example of parsing an input text containing rectangles
 
 HTTP mocking to test API services for chaos scenarios
  https://github.com/Trendyol/gaos
+
+Golang Testing — Mocking Redis
+ https://itnext.io/golang-testing-mocking-redis-b48d09386c70

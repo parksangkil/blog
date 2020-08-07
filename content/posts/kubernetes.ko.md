@@ -82,3 +82,6 @@ Deploying a containerized Go app on Kubernetes
 
 Running Spring Boot in Kubernetes
  https://github.com/PheaSoy/spring-boot-kubernetes
+
+An Ultimate Kubernetes Hands-on Labs
+ https://collabnix.github.io/kubelabs/
