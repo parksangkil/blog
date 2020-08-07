@@ -5,6 +5,9 @@ categories: [AWS]
 tags: [aws]
 ---
 
+AWS 한국어 기술 백서 목록 (2020년 업데이트)
+ https://aws.amazon.com/ko/blogs/korea/ko-whitepapers/
+ 
 AWS 한국사용자모임
  https://awskrug.github.io/index.html
 
