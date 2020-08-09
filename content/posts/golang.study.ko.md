@@ -111,3 +111,6 @@ Comparing Crystal’s concurrency with that of Go (Part I)
 
 Generics are the Generics of Go
  https://medium.com/capital-one-tech/generics-are-the-generics-of-go-3e0ef0cb9e04
+
+Golang Code - A Library of Go Snippets
+ https://golangcode.com/
