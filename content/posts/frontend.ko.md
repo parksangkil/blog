@@ -69,3 +69,6 @@ JavaScript 101: Design Patterns
 
 어서 와, SSR은 처음이지? - 개발 편
  https://d2.naver.com/helloworld/2177909
+
+패스트캠퍼스 Vue.js 수업 자료
+ https://joshua1988.github.io/vue-camp/textbook.html
