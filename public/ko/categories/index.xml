@@ -14,13 +14,31 @@
     <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
     <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 05 Aug 2020 06:13:40 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 06:20:21 +0900</lastBuildDate>
     
         <atom:link href="https://parksangkil.github.io/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>kotlin</title>
+        <link>https://parksangkil.github.io/ko/categories/kotlin/</link>
+        <pubDate>Tue, 11 Aug 2020 06:20:21 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        
+        <guid>https://parksangkil.github.io/ko/categories/kotlin/</guid>
+        <description></description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Golang</title>
@@ -101,24 +119,6 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         
         <guid>https://parksangkil.github.io/ko/categories/springboot/</guid>
-        <description></description>
-        
-        <dc:creator>Park SangKil</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>kotlin</title>
-        <link>https://parksangkil.github.io/ko/categories/kotlin/</link>
-        <pubDate>Mon, 27 Jul 2020 06:08:21 +0900</pubDate>
-        <author>ht1911@gmail.com (Park SangKil)</author>
-        
-        <guid>https://parksangkil.github.io/ko/categories/kotlin/</guid>
         <description></description>
         
         <dc:creator>Park SangKil</dc:creator>

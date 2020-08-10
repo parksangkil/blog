@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://parksangkil.github.io/ko/categories/</loc>
-    <lastmod>2020-08-05T06:13:40+09:00</lastmod>
+    <lastmod>2020-08-11T06:20:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,18 +18,23 @@
   </url>
   
   <url>
-    <loc>https://parksangkil.github.io/ko/categories/golang/</loc>
-    <lastmod>2020-08-05T06:13:40+09:00</lastmod>
+    <loc>https://parksangkil.github.io/ko/posts/kotlin/</loc>
+    <lastmod>2020-08-11T06:20:21+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://parksangkil.github.io/ko/posts/golang.test/</loc>
-    <lastmod>2020-08-05T06:13:40+09:00</lastmod>
+    <loc>https://parksangkil.github.io/ko/tags/kotlin/</loc>
+    <lastmod>2020-08-11T06:20:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/categories/kotlin/</loc>
+    <lastmod>2020-08-11T06:20:21+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://parksangkil.github.io/ko/</loc>
-    <lastmod>2020-08-05T06:13:40+09:00</lastmod>
+    <lastmod>2020-08-11T06:20:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,12 +49,12 @@
   
   <url>
     <loc>https://parksangkil.github.io/ko/posts/</loc>
-    <lastmod>2020-08-05T06:13:40+09:00</lastmod>
+    <lastmod>2020-08-11T06:20:21+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://parksangkil.github.io/ko/tags/</loc>
-    <lastmod>2020-08-05T06:13:40+09:00</lastmod>
+    <lastmod>2020-08-11T06:20:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,6 +65,16 @@
                 hreflang="ko"
                 href="https://parksangkil.github.io/ko/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/categories/golang/</loc>
+    <lastmod>2020-08-05T06:13:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parksangkil.github.io/ko/posts/golang.test/</loc>
+    <lastmod>2020-08-05T06:13:40+09:00</lastmod>
   </url>
   
   <url>
@@ -139,16 +154,6 @@
   
   <url>
     <loc>https://parksangkil.github.io/ko/posts/kotlin.blog/</loc>
-    <lastmod>2020-07-27T06:08:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/tags/kotlin/</loc>
-    <lastmod>2020-07-27T06:08:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://parksangkil.github.io/ko/categories/kotlin/</loc>
     <lastmod>2020-07-27T06:08:21+09:00</lastmod>
   </url>
   
