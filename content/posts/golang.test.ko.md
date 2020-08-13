@@ -13,3 +13,6 @@ HTTP mocking to test API services for chaos scenarios
 
 Golang Testing — Mocking Redis
  https://itnext.io/golang-testing-mocking-redis-b48d09386c70
+
+Write Go unit tests for db CRUD with random data
+ https://dev.to/techschoolguru/write-go-unit-tests-for-db-crud-with-random-data-53no?utm_source=dormosheio&utm_campaign=dormosheio
