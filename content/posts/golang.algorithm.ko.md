@@ -25,3 +25,6 @@ An implementation in GO (golang) of the basic algorithms and data structure.
 
 A collection of 100+ popular LeetCode problems solved in Go.
  https://github.com/austingebauer/go-leetcode
+
+Data Structures and Algorithmic Thinking With Go
+ https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go

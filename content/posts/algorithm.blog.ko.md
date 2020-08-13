@@ -10,3 +10,7 @@ Algorithms
  
 The Quicksort Algorithm
  https://www.baeldung.com/cs/the-quicksort-algorithm
+
+Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
+ https://github.com/TheAlgorithms
+ 
