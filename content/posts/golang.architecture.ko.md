@@ -17,3 +17,6 @@ Clean Architecture, 2 years later
 
 stygis — Golang Hexagonal Architecture
  https://medium.com/@iDevoid/stygis-golang-hexagonal-architecture-a2d89d01f84b
+
+GoLang: Using multi-stage builds to create clean Docker images
+ https://fabianlee.org/2020/01/26/golang-using-multi-stage-builds-to-create-clean-docker-images/
