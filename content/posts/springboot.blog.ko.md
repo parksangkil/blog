@@ -16,3 +16,9 @@ tags: [springboot]
 
 Spring Boot SSL (HTTPS) examples
  https://mkyong.com/spring-boot/spring-boot-ssl-https-examples/
+
+Spring Boot Tutorial
+ https://www.javaguides.net/p/spring-boot-tutorial.html
+
+Serverless Functions with Spring Cloud Function
+ https://www.baeldung.com/spring-cloud-function
