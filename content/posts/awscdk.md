@@ -14,3 +14,6 @@ Templates for aws cdk
 
 AWS CDK setup for autoscaling with ec2 spot instances
  https://jelinden.fi/blog/aws-cdk-setup-for-autoscaling-with-ec2-spot-instances/xi7mNppZg
+
+cdkworkshop
+ https://cdkworkshop.com/
