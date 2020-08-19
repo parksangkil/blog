@@ -5,3 +5,9 @@ date: 2020-06-07T17:34:58+09:00
 
 Collection of Terraform AWS modules supported by the community
  https://github.com/terraform-aws-modules
+
+Example projects using the AWS CDK
+ https://github.com/aws-samples/aws-cdk-examples
+
+Templates for aws cdk
+ https://github.com/tecracer/cdk-templates
