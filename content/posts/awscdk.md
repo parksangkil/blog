@@ -11,3 +11,6 @@ Example projects using the AWS CDK
 
 Templates for aws cdk
  https://github.com/tecracer/cdk-templates
+
+AWS CDK setup for autoscaling with ec2 spot instances
+ https://jelinden.fi/blog/aws-cdk-setup-for-autoscaling-with-ec2-spot-instances/xi7mNppZg
