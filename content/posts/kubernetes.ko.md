@@ -91,3 +91,6 @@ Kustomize를 이용한 쿠버네티스 오브젝트의 선언형 관리
 
 Pomerium is an identity-aware access proxy.
  https://github.com/pomerium/pomerium
+
+THE KUBERNETES IDE
+ https://k8slens.dev/
