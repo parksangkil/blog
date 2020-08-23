@@ -107,3 +107,6 @@ A Chaos Engineering Platform for Kubernetes.
 
 Chaos Engineering for your Kubernetes
  https://litmuschaos.io/
+
+YAML syntax highlighter to bring colours where only jq could
+ https://github.com/andreazorzetto/yh

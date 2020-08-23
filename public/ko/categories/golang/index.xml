@@ -90,7 +90,9 @@
         <atom:modified>Sun, 28 Jun 2020 16:03:47 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.interview/</guid>
         <description>Collection of Technical Interview Questions solved with Go
-https://github.com/shomali11/go-interview</description>
+https://github.com/shomali11/go-interview
+Roadmap to becoming a Go developer in 2020
+https://github.com/Alikhll/golang-developer-roadmap</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
