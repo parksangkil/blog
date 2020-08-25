@@ -29,19 +29,7 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sun, 19 Jul 2020 07:10:23 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/msa/</guid>
-        <description>Microservice Architecture with Spring Boot, Spring Cloud and Docker
-https://github.com/sqshq/piggymetrics
-https://github.com/RameshMF/PiggyMetrics
-Free Spring Boot Microservices Open Source Projects
-https://www.javaguides.net/2020/06/free-spring-boot-microservices-open-source-projects-github.html]
-Real-Time Fraud Detection with Microservices
-https://github.com/melofred/FraudDetection-Microservices
-House rent mvp system using microservices architecture - built using Spring Cloud.
-https://github.com/KNehe/House-Rent-MicroServices
-Code repository for my Building Microservices YouTube series - Golang
-https://github.com/nicholasjackson/building-microservices-youtube
-Native microservices with SparkJava and Graal
-https://www.javacodegeeks.com/2019/01/native-microservices-sparkjava-graal.html</description>
+        <description>Microservice Architecture with Spring Boot, Spring Cloud and Docker https://github.com/sqshq/piggymetrics https://github.com/RameshMF/PiggyMetrics Free Spring Boot Microservices Open Source Projects https://www.javaguides.net/2020/06/free-spring-boot-microservices-open-source-projects-github.html] Real-Time Fraud Detection with Microservices https://github.com/melofred/FraudDetection-Microservices House rent mvp system using microservices architecture - built using Spring Cloud. https://github.com/KNehe/House-Rent-MicroServices Code repository for my Building Microservices YouTube series - Golang https://github.com/nicholasjackson/building-microservices-youtube Native microservices with SparkJava and Graal https://www.javacodegeeks.com/2019/01/native-microservices-sparkjava-graal.html MSA 패턴: 핵심패턴만 빠르게 이해</description>
         
         <dc:creator>Park SangKil</dc:creator>
         

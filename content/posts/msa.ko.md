@@ -23,3 +23,8 @@ Code repository for my Building Microservices YouTube series - Golang
 
 Native microservices with SparkJava and Graal
  https://www.javacodegeeks.com/2019/01/native-microservices-sparkjava-graal.html
+
+ MSA 패턴: 핵심패턴만 빠르게 이해하기
+  https://happycloud-lee.tistory.com/154
+  https://microservices.io/patterns/
+  https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/
