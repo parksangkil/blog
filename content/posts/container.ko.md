@@ -7,3 +7,6 @@ tags: [docker]
 
 하나씩 익히는 컨테이너
  https://ssup2.github.io/categories/onebyone_container/
+ 
+A tool for exploring each layer in a docker image
+ https://github.com/wagoodman/dive

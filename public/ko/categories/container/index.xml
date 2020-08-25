@@ -29,7 +29,7 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sat, 18 Jul 2020 06:21:29 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/container/</guid>
-        <description>하나씩 익히는 컨테이너 https://ssup2.github.io/categories/onebyone_container/</description>
+        <description>하나씩 익히는 컨테이너 https://ssup2.github.io/categories/onebyone_container/ A tool for exploring each layer in a docker image https://github.com/wagoodman/dive</description>
         
         <dc:creator>Park SangKil</dc:creator>
         
