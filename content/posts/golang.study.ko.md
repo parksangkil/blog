@@ -114,3 +114,6 @@ Generics are the Generics of Go
 
 Golang Code - A Library of Go Snippets
  https://golangcode.com/
+
+Ultimate Go study guide
+ https://github.com/hoanhan101/ultimate-go
