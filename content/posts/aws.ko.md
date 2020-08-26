@@ -11,6 +11,9 @@ AWS 한국어 기술 백서 목록 (2020년 업데이트)
 AWS 한국사용자모임
  https://awskrug.github.io/index.html
 
+AWS 자격증 도사로 돌아온 정개발님과 함께
+ https://www.youtube.com/watch?v=zfbG98ckyTo
+ 
 아키텍처 관련 모범 사례를 사용해 학습, 측정 및 구축
  https://aws.amazon.com/ko/architecture/well-architected/
 
