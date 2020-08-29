@@ -110,3 +110,6 @@ Chaos Engineering for your Kubernetes
 
 YAML syntax highlighter to bring colours where only jq could
  https://github.com/andreazorzetto/yh
+ 
+A collection of kubernetes-related diagrams
+ https://github.com/cloudogu/k8s-diagrams
