@@ -29,7 +29,9 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sat, 13 Jun 2020 06:23:37 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.project/</guid>
-        <description>Standard Go Project Layout
+        <description>Go Version Manager
+https://github.com/moovweb/gvm
+Standard Go Project Layout
 https://github.com/golang-standards/project-layout
 Golang Service Project Baseline
 https://github.com/safing/portbase
@@ -43,9 +45,7 @@ Building a TODO API in Golang with Kubernetes
 https://levelup.gitconnected.com/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029
 High Performance, Kubernetes Native Object Storage
 https://github.com/minio
-Building Microservices with Go
-https://morioh.com/p/f2740cd3a9f6
-Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.</description>
+Building Microservices with Go</description>
         
         <dc:creator>Park SangKil</dc:creator>
         

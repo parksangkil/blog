@@ -117,3 +117,6 @@ Golang Code - A Library of Go Snippets
 
 Ultimate Go study guide
  https://github.com/hoanhan101/ultimate-go
+
+This repo contains my notes on working with Go and computer systems.
+ https://github.com/betty200744/ultimate-go
