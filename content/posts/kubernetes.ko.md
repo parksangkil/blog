@@ -113,3 +113,6 @@ YAML syntax highlighter to bring colours where only jq could
  
 A collection of kubernetes-related diagrams
  https://github.com/cloudogu/k8s-diagrams
+
+A resource tracking a number of Operators out in the wild.
+ https://github.com/operator-framework/awesome-operators
