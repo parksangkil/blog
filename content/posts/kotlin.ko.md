@@ -7,3 +7,12 @@ tags: [kotlin]
 
 SERVER AS A FUNCTION WITH KOTLIN – HTTP4K
  https://kotlinexpertise.com/kotlin-http4k/
+
+Static code analysis for Kotlin
+ https://github.com/detekt/detekt
+
+An anti-bikeshedding Kotlin linter with built-in formatter
+ https://github.com/pinterest/ktlint
+
+A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+ https://github.com/KotlinBy/awesome-kotlin
