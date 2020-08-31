@@ -28,3 +28,6 @@ Native microservices with SparkJava and Graal
   https://happycloud-lee.tistory.com/154
   https://microservices.io/patterns/
   https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/
+
+A curated list of Microservice Architecture related principles and technologies.
+ https://github.com/mfornos/awesome-microservices
