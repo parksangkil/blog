@@ -17,3 +17,6 @@ AWS CDK setup for autoscaling with ec2 spot instances
 
 cdkworkshop
  https://cdkworkshop.com/
+
+CDK로 EKS 클러스터 풀스택 관리하기
+ https://cdk-eks-devops.workshop.aws/ko
