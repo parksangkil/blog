@@ -42,3 +42,6 @@ Golang Course With Building a Fintech Banking App
 
 Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love.
  https://github.com/squzy/squzy
+
+Simple API for banking routines using a Clean Architecture in Golang
+ https://github.com/GSabadini/go-bank-transfer
