@@ -116,3 +116,10 @@ A collection of kubernetes-related diagrams
 
 A resource tracking a number of Operators out in the wild.
  https://github.com/operator-framework/awesome-operators
+
+Build Container Images In Kubernetes
+ https://github.com/GoogleContainerTools/kaniko
+
+Tekton is a powerful and flexible open-source framework for creating CI/CD systems
+ https://tekton.dev/
+ 
