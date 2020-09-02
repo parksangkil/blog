@@ -120,3 +120,6 @@ Ultimate Go study guide
 
 This repo contains my notes on working with Go and computer systems.
  https://github.com/betty200744/ultimate-go
+
+This repo contains the Ultimate Go Study Guide for students taking the Ultimate Go class.
+ https://github.com/ardanlabs/gotraining-studyguide
