@@ -31,3 +31,9 @@ Prevents you from committing secrets and credentials into git repositories
 
 Take Control of Your Cloud Architecture.
  https://www.cloudcraft.co/
+
+AWS Samples
+ https://github.com/aws-samples
+
+Amazon Web Services - Labs
+ https://github.com/awslabs
