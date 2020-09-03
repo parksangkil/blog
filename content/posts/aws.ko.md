@@ -25,3 +25,6 @@ AWS상에 내결함성이 뛰어난 애플리케이션 구축 1/2
 
 명명된 프로파일
  https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-configure-profiles.html
+
+Prevents you from committing secrets and credentials into git repositories
+ https://github.com/awslabs/git-secrets
