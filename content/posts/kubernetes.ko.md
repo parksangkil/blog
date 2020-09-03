@@ -122,4 +122,7 @@ Build Container Images In Kubernetes
 
 Tekton is a powerful and flexible open-source framework for creating CI/CD systems
  https://tekton.dev/
+
+The GitOps Kubernetes operator
+ https://github.com/fluxcd/flux
  
