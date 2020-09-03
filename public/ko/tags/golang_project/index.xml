@@ -29,7 +29,9 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sat, 13 Jun 2020 06:23:37 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/golang.project/</guid>
-        <description>Go Version Manager
+        <description>Go standards and style guidelines
+https://docs.gitlab.com/ee/development/go_guide/
+Go Version Manager
 https://github.com/moovweb/gvm
 Standard Go Project Layout
 https://github.com/golang-standards/project-layout
@@ -43,9 +45,7 @@ A GraphQL-based Web App written with Go, React and MongoDB
 https://github.com/Shpota/skmz
 Building a TODO API in Golang with Kubernetes
 https://levelup.gitconnected.com/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029
-High Performance, Kubernetes Native Object Storage
-https://github.com/minio
-Building Microservices with Go</description>
+High Performance, Kubernetes Native Object Storage</description>
         
         <dc:creator>Park SangKil</dc:creator>
         

@@ -22,3 +22,6 @@ AWS 전문가 되기
 
 AWS상에 내결함성이 뛰어난 애플리케이션 구축 1/2
  https://medium.com/@buw/aws%EC%83%81%EC%97%90-%EB%82%B4%EA%B2%B0%ED%95%A8%EC%84%B1%EC%9D%B4-%EB%9B%B0%EC%96%B4%EB%82%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B5%AC%EC%B6%95-1-2-3b91c35ad19
+
+명명된 프로파일
+ https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-configure-profiles.html

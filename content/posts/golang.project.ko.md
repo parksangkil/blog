@@ -4,6 +4,9 @@ date: 2020-06-13T06:23:37+09:00
 categories: [Golang]
 tags: [golang_project]
 ---
+Go standards and style guidelines
+ https://docs.gitlab.com/ee/development/go_guide/
+ 
 Go Version Manager
  https://github.com/moovweb/gvm
  
