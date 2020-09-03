@@ -28,3 +28,6 @@ AWS상에 내결함성이 뛰어난 애플리케이션 구축 1/2
 
 Prevents you from committing secrets and credentials into git repositories
  https://github.com/awslabs/git-secrets
+
+Take Control of Your Cloud Architecture.
+ https://www.cloudcraft.co/
