@@ -31,3 +31,9 @@ Protractor Tutorial
 
 Bash Automated Testing System
  https://github.com/bats-core/bats-core
+
+An open source load testing tool.
+ https://locust.io/
+
+A modern load testing tool, using Go and JavaScript
+ https://github.com/loadimpact/k6
