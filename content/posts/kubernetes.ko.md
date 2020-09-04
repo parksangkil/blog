@@ -128,3 +128,12 @@ The GitOps Kubernetes operator
  
 A single distribution of libraries that automatically collect traces and metrics from your app, display them locally, and send them to any backend.
  https://github.com/census-instrumentation/
+
+OpenCensus Ecosystem that complements OpenCensus
+ https://github.com/census-ecosystem
+
+Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
+ https://github.com/googlecloudplatform/microservices-demo
+
+Local Kubernetes Development.
+ https://skaffold.dev/
