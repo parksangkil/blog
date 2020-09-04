@@ -31,3 +31,15 @@ CKA/CKAD exam: Managing ETCD cluster
 
 CKA(Kubernetes 자격증) 잘 준비하는 법
  https://www.slideshare.net/InfraEngineer/how-to-prepare-well-for-cka-exam
+
+What you need to know about Kubernetes CKA Exam Updated Syllabus(September 2020)?
+ https://monicabhartiya.com/posts/kubernetes-syllabus-update
+
+A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
+ https://github.com/dgkanatsios/CKAD-exercises
+
+CKAD
+ https://github.com/bmuschko/ckad-crash-course/tree/master/exercises
+
+Important Exam Tips For CKAD
+ https://reviewnprep.com/blog/important-exam-tips-for-ckad/
