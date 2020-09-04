@@ -137,3 +137,6 @@ Sample cloud-native application with 10 microservices showcasing Kubernetes, Ist
 
 Local Kubernetes Development.
  https://skaffold.dev/
+
+Jaeger: open source, end-to-end distributed tracing
+ https://www.jaegertracing.io/
