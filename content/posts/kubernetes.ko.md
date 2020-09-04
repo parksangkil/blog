@@ -126,3 +126,5 @@ Tekton is a powerful and flexible open-source framework for creating CI/CD syste
 The GitOps Kubernetes operator
  https://github.com/fluxcd/flux
  
+A single distribution of libraries that automatically collect traces and metrics from your app, display them locally, and send them to any backend.
+ https://github.com/census-instrumentation/
