@@ -16,3 +16,6 @@ An anti-bikeshedding Kotlin linter with built-in formatter
 
 A curated list of awesome Kotlin related stuff Inspired by awesome-java.
  https://github.com/KotlinBy/awesome-kotlin
+
+무료로 안드로이드 코틀린 배우기
+ https://enjoyingthelifeofkottdo2.com/learn-android-kotlin-for-free/

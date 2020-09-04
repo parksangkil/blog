@@ -29,7 +29,9 @@
         <author>ht1911@gmail.com (Park SangKil)</author>
         <atom:modified>Sat, 11 Jul 2020 09:23:28 +0900</atom:modified>
         <guid>https://parksangkil.github.io/ko/posts/cncf/</guid>
-        <description>Contour is a Kubernetes ingress controller using Lyft&amp;rsquo;s Envoy proxy.
+        <description>Building sustainable ecosystems for cloud native software
+https://www.cncf.io/
+Contour is a Kubernetes ingress controller using Lyft&amp;rsquo;s Envoy proxy.
 https://github.com/projectcontour/contour
 Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 https://github.com/kubernetes-sigs/external-dns</description>
