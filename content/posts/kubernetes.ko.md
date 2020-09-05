@@ -7,7 +7,7 @@ tags: [Kubernetes, EKS, CI/CD]
 
 The Kubernetes Handbook
  https://www.freecodecamp.org/news/the-kubernetes-handbook/
- 
+
 Amazon EKS Workshop
  https://www.eksworkshop.com/
 
@@ -145,3 +145,6 @@ Jaeger: open source, end-to-end distributed tracing
  https://www.jaegertracing.io/
 
 https://ddii.dev/
+
+쿠버네티스 패키지 매니저
+ https://helm.sh/ko/docs/
