@@ -154,3 +154,6 @@ Build and deploy Kubernetes apps with Skaffold
 
 Using RBAC with Service Accounts in Kubernetes
  https://dzone.com/articles/using-rbac-with-service-accounts-in-kubernetes
+
+Customization of kubernetes YAML configurations
+ https://github.com/kubernetes-sigs/kustomize
