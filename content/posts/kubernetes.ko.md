@@ -157,3 +157,9 @@ Using RBAC with Service Accounts in Kubernetes
 
 Customization of kubernetes YAML configurations
  https://github.com/kubernetes-sigs/kustomize
+
+Creating Kubernetes Cluster in AWS using kubeadm for beginners.(all steps created manually) step by step guide (10 steps)
+ https://medium.com/@adetunji.adeshina/creating-kubernetes-cluster-in-aws-using-kubeadm-for-beginners-all-9bf021c1cafc
+
+Kubernetes-based platform to deploy and manage modern serverless workloads.
+ https://knative.dev/
