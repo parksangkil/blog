@@ -148,3 +148,9 @@ https://ddii.dev/
 
 쿠버네티스 패키지 매니저
  https://helm.sh/ko/docs/
+
+Build and deploy Kubernetes apps with Skaffold
+ https://www.infracloud.io/blogs/skaffold-usecases/
+
+Using RBAC with Service Accounts in Kubernetes
+ https://dzone.com/articles/using-rbac-with-service-accounts-in-kubernetes
