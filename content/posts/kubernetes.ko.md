@@ -166,3 +166,6 @@ Kubernetes-based platform to deploy and manage modern serverless workloads.
 
 10 Antipatterns for Kubernetes Deployments
  https://medium.com/@bbau00/10-antipatterns-for-kubernetes-deployments-e97ce1199f2d
+
+Network Policy in Kubernetes
+ https://www.howtoforge.com/kubernetes_network_policy/
