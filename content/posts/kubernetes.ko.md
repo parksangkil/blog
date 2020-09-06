@@ -163,3 +163,6 @@ Creating Kubernetes Cluster in AWS using kubeadm for beginners.(all steps create
 
 Kubernetes-based platform to deploy and manage modern serverless workloads.
  https://knative.dev/
+
+10 Antipatterns for Kubernetes Deployments
+ https://medium.com/@bbau00/10-antipatterns-for-kubernetes-deployments-e97ce1199f2d

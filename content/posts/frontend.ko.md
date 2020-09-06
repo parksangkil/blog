@@ -75,3 +75,6 @@ JavaScript 101: Design Patterns
 
 Unifying the frontend development toolchain
  https://romefrontend.dev/
+ 
+ [번역] 모든 길은 Rome으로 통할까?
+  https://medium.com/official-podo/%EB%AA%A8%EB%93%A0%EA%B8%B8%EC%9D%80-rome%EC%9C%BC%EB%A1%9C-%ED%86%B5%ED%95%A0%EA%B9%8C-1a858dddedd6
