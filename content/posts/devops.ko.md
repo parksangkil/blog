@@ -10,3 +10,6 @@ DevOps Workshop
 
 Simple demonstration app for 'Cloud Native Devops' 
  https://github.com/cloudnativedevops/demo
+
+To provision AWS resources
+ https://github.com/DevopsArtFactory/aws-provisioning

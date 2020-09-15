@@ -22,3 +22,6 @@ Git을 이용한 협업 워크플로우
 
 git flow model 수업
  https://www.youtube.com/watch?v=EzcF6RX8RrQ
+
+Git 팁 모음집
+ https://github.com/mingrammer/git-tips
