@@ -43,3 +43,6 @@ CKAD
 
 Important Exam Tips For CKAD
  https://reviewnprep.com/blog/important-exam-tips-for-ckad/
+
+CKA Exam Study Guide: Certified Kubernetes Administrator
+ https://scriptcrunch.com/kubernetes-exam-guide/
