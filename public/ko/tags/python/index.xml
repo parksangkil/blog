@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>python on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/python/</link>
+    <description>Recent content in python on Park Sangkil Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
+    <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 03 Oct 2020 07:03:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://parksangkil.github.io/ko/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Python</title>
+        <link>https://parksangkil.github.io/ko/posts/python/</link>
+        <pubDate>Sat, 03 Oct 2020 07:03:06 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sat, 03 Oct 2020 07:03:06 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/python/</guid>
+        <description>실용 파이썬 프로그래밍(Practical Python Programming 번역) https://wikidocs.net/book/4673</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
