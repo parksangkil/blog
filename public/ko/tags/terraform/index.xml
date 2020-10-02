@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>terraform on Park Sangkil Tech Blog</title>
+    <link>https://parksangkil.github.io/ko/tags/terraform/</link>
+    <description>Recent content in terraform on Park Sangkil Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>ht1911@gmail.com (Park SangKil)</managingEditor>
+    <webMaster>ht1911@gmail.com (Park SangKil)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 03 Oct 2020 07:08:14 +0900</lastBuildDate>
+    
+        <atom:link href="https://parksangkil.github.io/ko/tags/terraform/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Hashicorp</title>
+        <link>https://parksangkil.github.io/ko/posts/hashicorp/</link>
+        <pubDate>Sat, 03 Oct 2020 07:08:14 +0900</pubDate>
+        <author>ht1911@gmail.com (Park SangKil)</author>
+        <atom:modified>Sat, 03 Oct 2020 07:08:14 +0900</atom:modified>
+        <guid>https://parksangkil.github.io/ko/posts/hashicorp/</guid>
+        <description>Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS
+https://github.com/terraform-aws-modules/terraform-aws-eks</description>
+        
+        <dc:creator>Park SangKil</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>terraform</category>
+            
+          
+            
+              <category>nomad</category>
+            
+          
+            
+              <category>consul</category>
+            
+          
+            
+              <category>valut</category>
+            
+          
+        
+        
+          
+            
+              <category>hashicorp</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
