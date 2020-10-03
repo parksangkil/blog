@@ -46,3 +46,6 @@ Important Exam Tips For CKAD
 
 CKA Exam Study Guide: Certified Kubernetes Administrator
  https://scriptcrunch.com/kubernetes-exam-guide/
+
+CKAD Certification Exam Preparation Guide and Tips
+ https://kloudnative.blogspot.com/2020/09/ckad-certification-exam-preparation.html
