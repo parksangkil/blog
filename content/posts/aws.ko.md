@@ -43,3 +43,6 @@ Amazon Web Services - Labs
 
 INTRO TO SERVICE COORDINATION USING AWS STEP FUNCTIONS
  https://step-functions-workshop.go-aws.com/
+
+Sending bash commands to an EC2 cluster with AWS Lambda and SSM
+ https://medium.com/wantedjobs/sending-bash-commands-to-an-ec2-cluster-with-aws-lambda-and-ssm-8b7ecb9597bd
