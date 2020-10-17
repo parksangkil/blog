@@ -40,3 +40,6 @@ AWS Samples
 
 Amazon Web Services - Labs
  https://github.com/awslabs
+
+INTRO TO SERVICE COORDINATION USING AWS STEP FUNCTIONS
+ https://step-functions-workshop.go-aws.com/
