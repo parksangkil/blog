@@ -13,3 +13,6 @@ Simple demonstration app for 'Cloud Native Devops'
 
 To provision AWS resources
  https://github.com/DevopsArtFactory/aws-provisioning
+
+"DevOps와 SE를 위한 리눅스 커널 이야기", 강진우, 프로그래밍인사이트, 2017.8.16.
+ https://jihooyim1.gitbooks.io/linuxbasic/content/
