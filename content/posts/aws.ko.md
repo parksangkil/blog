@@ -46,3 +46,6 @@ INTRO TO SERVICE COORDINATION USING AWS STEP FUNCTIONS
 
 Sending bash commands to an EC2 cluster with AWS Lambda and SSM
  https://medium.com/wantedjobs/sending-bash-commands-to-an-ec2-cluster-with-aws-lambda-and-ssm-8b7ecb9597bd
+
+AWS WAF 운영에 대한 이야기
+ https://woowabros.github.io/security/2020/10/15/woowa-aws-waf.html
