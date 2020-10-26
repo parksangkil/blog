@@ -49,3 +49,9 @@ Sending bash commands to an EC2 cluster with AWS Lambda and SSM
 
 AWS WAF 운영에 대한 이야기
  https://woowabros.github.io/security/2020/10/15/woowa-aws-waf.html
+
+Amazon Builders' Library
+ https://aws.amazon.com/ko/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc
+
+AWS Well-Architected
+ https://aws.amazon.com/ko/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc
