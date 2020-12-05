@@ -172,3 +172,6 @@ Network Policy in Kubernetes
 
 How Rolling and Rollback Deployments work in Kubernetes
  https://medium.com/@yankee.exe/how-rolling-and-rollback-deployments-work-in-kubernetes-8db4c4dce599
+
+Production 환경에서 고려해야 할 Kubernetes 이슈 & 트러블슈팅
+ https://velog.io/@tedigom/Production-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0Kubernetes-%EC%9D%B4%EC%8A%88-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85
