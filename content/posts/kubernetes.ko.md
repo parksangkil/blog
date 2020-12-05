@@ -169,3 +169,6 @@ Kubernetes-based platform to deploy and manage modern serverless workloads.
 
 Network Policy in Kubernetes
  https://www.howtoforge.com/kubernetes_network_policy/
+
+How Rolling and Rollback Deployments work in Kubernetes
+ https://medium.com/@yankee.exe/how-rolling-and-rollback-deployments-work-in-kubernetes-8db4c4dce599
