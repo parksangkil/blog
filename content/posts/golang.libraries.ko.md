@@ -82,3 +82,6 @@ Go Library to Execute Commands Over SSH at Scale
 
 Diago is a visualization tool for CPU profiles and heap snapshots generated with `pprof`.
  https://github.com/remeh/diago
+
+TCP tool for network performance and path monitoring, including socket statistics.
+ https://github.com/mehrdadrad/tcpprobe
