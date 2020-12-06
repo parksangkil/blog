@@ -28,3 +28,6 @@ Go is Boring...And That’s Fantastic!
 
 Building a Golang Docker image
  https://bitfieldconsulting.com/golang/docker-image
+
+Build a gRPC server in Go
+ https://dev.to/dsckiitdev/build-a-grpc-server-in-go-1890
