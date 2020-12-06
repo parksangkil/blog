@@ -85,3 +85,6 @@ Diago is a visualization tool for CPU profiles and heap snapshots generated with
 
 TCP tool for network performance and path monitoring, including socket statistics.
  https://github.com/mehrdadrad/tcpprobe
+
+Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
+ https://github.com/microsoft/ethr
