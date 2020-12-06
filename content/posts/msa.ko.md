@@ -31,3 +31,6 @@ Native microservices with SparkJava and Graal
 
 A curated list of Microservice Architecture related principles and technologies.
  https://github.com/mfornos/awesome-microservices
+
+Monitoring Microservices the Right Way
+ https://www.infoq.com/articles/microservice-monitoring-right-way/
