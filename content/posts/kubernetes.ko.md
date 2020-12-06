@@ -178,3 +178,6 @@ Production 환경에서 고려해야 할 Kubernetes 이슈 & 트러블슈팅
 
 Setting up multi-node Kubernetes cluster locally with K3s and Multipass
  https://medium.com/@yankee.exe/setting-up-multi-node-kubernetes-cluster-with-k3s-and-multipass-d4efed47fed5
+
+KUBERNETES CLIENTS AND DASHBOARDS: A COMPARISON
+ https://ordina-jworks.github.io/cloud/2020/08/28/kubernetes-clients-comparison.html
