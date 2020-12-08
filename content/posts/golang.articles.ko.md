@@ -31,3 +31,6 @@ Building a Golang Docker image
 
 Build a gRPC server in Go
  https://dev.to/dsckiitdev/build-a-grpc-server-in-go-1890
+
+Building Tiny Docker Images Containing Go Microservices
+ https://tonyuk.medium.com/building-tiny-docker-images-containing-go-microservices-766e7f5b316
