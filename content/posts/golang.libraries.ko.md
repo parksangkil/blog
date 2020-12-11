@@ -88,3 +88,6 @@ TCP tool for network performance and path monitoring, including socket statistic
 
 Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
  https://github.com/microsoft/ethr
+
+Next generation distributed, event-driven, parallel config management!
+ https://github.com/purpleidea/mgmt
