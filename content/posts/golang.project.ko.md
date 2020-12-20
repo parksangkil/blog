@@ -54,3 +54,6 @@ Pragmatic Boilerplate for Golang RESTful Server Implementation
 
 A microservice orchestration platform that enables developers to build scalable applications without sacrificing productivity or reliability.
  https://github.com/temporalio/temporal
+
+Setting up an EKS cluster with IAM/IRSA integration
+ https://brennerm.github.io/posts/setting-up-eks-with-irsa-using-terraform.html
