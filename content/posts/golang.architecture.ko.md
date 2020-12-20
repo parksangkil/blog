@@ -23,3 +23,6 @@ GoLang: Using multi-stage builds to create clean Docker images
 
 Introducing Clean Architecture by refactoring a Go project
  https://threedots.tech/post/introducing-clean-architecture/
+
+Exploiting network devices at the data link layer with Go
+ https://dev.to/davidkroell/exployting-network-devices-at-the-data-link-layer-with-go-44an

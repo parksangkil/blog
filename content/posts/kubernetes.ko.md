@@ -181,3 +181,6 @@ Setting up multi-node Kubernetes cluster locally with K3s and Multipass
 
 KUBERNETES CLIENTS AND DASHBOARDS: A COMPARISON
  https://ordina-jworks.github.io/cloud/2020/08/28/kubernetes-clients-comparison.html
+
+Kubernetes secrets generator
+ https://github.com/bbl/secretize

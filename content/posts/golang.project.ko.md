@@ -51,3 +51,6 @@ Simple API for banking routines using a Clean Architecture in Golang
 
 Pragmatic Boilerplate for Golang RESTful Server Implementation
  https://github.com/typical-go/typical-rest-server
+
+A microservice orchestration platform that enables developers to build scalable applications without sacrificing productivity or reliability.
+ https://github.com/temporalio/temporal
