@@ -48,3 +48,6 @@ Squzy - is a high-performance open-source monitoring, incident and alert system 
 
 Simple API for banking routines using a Clean Architecture in Golang
  https://github.com/GSabadini/go-bank-transfer
+
+Pragmatic Boilerplate for Golang RESTful Server Implementation
+ https://github.com/typical-go/typical-rest-server

@@ -91,3 +91,6 @@ Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 
 Next generation distributed, event-driven, parallel config management!
  https://github.com/purpleidea/mgmt
+
+Real-time HTTP Intrusion Detection
+ https://github.com/kitabisa/teler
