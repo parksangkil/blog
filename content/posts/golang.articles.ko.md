@@ -37,3 +37,6 @@ Building Tiny Docker Images Containing Go Microservices
 
 Build and Push Docker Images with Go
  https://www.loginradius.com/blog/async/build-push-docker-images-golang/
+
+Use of synchronization techniques in Golang
+ https://lebum.medium.com/use-of-synchronization-techniques-in-golang-53d75bc0a646
