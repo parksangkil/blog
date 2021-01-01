@@ -57,3 +57,6 @@ A microservice orchestration platform that enables developers to build scalable 
 
 Setting up an EKS cluster with IAM/IRSA integration
  https://brennerm.github.io/posts/setting-up-eks-with-irsa-using-terraform.html
+
+This template shows how to apply Clean Architecture
+ https://github.com/golang-common-packages/template

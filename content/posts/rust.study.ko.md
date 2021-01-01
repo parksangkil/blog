@@ -39,3 +39,5 @@ Rust Study
 Async/Await for AVR with Rust
  https://lights0123.com/blog/2020/07/25/async-await-for-avr-with-rust/
 
+Small exercises to get you used to reading and writing Rust code!
+ https://github.com/rust-lang/rustlings
