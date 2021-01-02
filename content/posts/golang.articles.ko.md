@@ -40,3 +40,6 @@ Build and Push Docker Images with Go
 
 Use of synchronization techniques in Golang
  https://lebum.medium.com/use-of-synchronization-techniques-in-golang-53d75bc0a646
+
+Scheduling Background Tasks
+ https://www.akinjide.me/2020/scheduling-background-tasks/
