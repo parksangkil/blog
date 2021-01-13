@@ -126,3 +126,6 @@ This repo contains the Ultimate Go Study Guide for students taking the Ultimate 
 
 golang - 배열과 slice 기초
  https://jacking75.github.io/go_slice_array/
+
+Go Slice Tricks Cheat Sheet
+ https://ueokande.github.io/go-slice-tricks/
