@@ -123,3 +123,6 @@ This repo contains my notes on working with Go and computer systems.
 
 This repo contains the Ultimate Go Study Guide for students taking the Ultimate Go class.
  https://github.com/ardanlabs/gotraining-studyguide
+
+golang - 배열과 slice 기초
+ https://jacking75.github.io/go_slice_array/
