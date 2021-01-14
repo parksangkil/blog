@@ -49,3 +49,6 @@ CKA Exam Study Guide: Certified Kubernetes Administrator
 
 CKAD Certification Exam Preparation Guide and Tips
  https://kloudnative.blogspot.com/2020/09/ckad-certification-exam-preparation.html
+
+CKAD, 쿠버네티스 어플리케이션 개발자 자격증 합격 후기
+ http://suapapa.github.io/blog//post/journey_toward_ckad/
