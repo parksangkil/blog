@@ -129,3 +129,9 @@ golang - 배열과 slice 기초
 
 Go Slice Tricks Cheat Sheet
  https://ueokande.github.io/go-slice-tricks/
+
+Increase Your App Query Performance By Bulk Selecting Database
+ https://adityarama1210.medium.com/increase-your-app-query-performance-by-bulk-selecting-database-ef1a642e15e6
+
+How We Created a Realtime Patient Monitoring System With Go and Vue in 3 days
+ https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/
