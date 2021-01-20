@@ -135,3 +135,9 @@ Increase Your App Query Performance By Bulk Selecting Database
 
 How We Created a Realtime Patient Monitoring System With Go and Vue in 3 days
  https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/
+
+Golang REST API using Serverless framework
+ https://medium.com/@marioarizaj97/golang-rest-api-using-serverless-framework-450d9e3e44ad
+
+Ways to Rate Limit Requests in Go
+ https://dev.to/abvarun226/ways-to-rate-limit-requests-in-go-25ca
