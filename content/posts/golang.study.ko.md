@@ -141,3 +141,9 @@ Golang REST API using Serverless framework
 
 Ways to Rate Limit Requests in Go
  https://dev.to/abvarun226/ways-to-rate-limit-requests-in-go-25ca
+
+The Trusted Platform Module Key Hierarchy
+ https://ericchiang.github.io/post/tpm-keys/
+
+Non-Blocking Parallelism for Services in Go
+ http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/
