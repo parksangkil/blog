@@ -147,3 +147,6 @@ The Trusted Platform Module Key Hierarchy
 
 Non-Blocking Parallelism for Services in Go
  http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/
+
+Packages as layers, not groups
+ https://www.gobeyond.dev/packages-as-layers/
