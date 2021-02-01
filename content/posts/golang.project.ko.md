@@ -63,3 +63,6 @@ This template shows how to apply Clean Architecture
 
 An easy and practical approach to structuring Golang applications
  https://mbvisti.medium.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
+
+Docker container as an executable to process images using Go
+ https://itnext.io/docker-container-as-an-executable-to-process-images-using-go-golang-5233f9bd3bf7
