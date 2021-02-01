@@ -60,3 +60,6 @@ Setting up an EKS cluster with IAM/IRSA integration
 
 This template shows how to apply Clean Architecture
  https://github.com/golang-common-packages/template
+
+An easy and practical approach to structuring Golang applications
+ https://mbvisti.medium.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
