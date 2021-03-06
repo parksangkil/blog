@@ -43,3 +43,6 @@ Use of synchronization techniques in Golang
 
 Scheduling Background Tasks
  https://www.akinjide.me/2020/scheduling-background-tasks/
+
+4 ways GO is just different
+ https://medium.com/to-journal-to-dev/4-ways-go-is-just-different-7554bc61d8d7
