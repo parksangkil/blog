@@ -26,3 +26,6 @@ Introducing Clean Architecture by refactoring a Go project
 
 Exploiting network devices at the data link layer with Go
  https://dev.to/davidkroell/exployting-network-devices-at-the-data-link-layer-with-go-44an
+ 
+SOLID Go Design
+ https://dave.cheney.net/2016/08/20/solid-go-design
