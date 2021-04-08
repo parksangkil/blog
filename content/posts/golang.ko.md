@@ -158,3 +158,5 @@ Code Convention
  3. A GraphQL-based Web App written with Go, React and MongoDB - https://github.com/Shpota/skmz
 
  4. HTTP load testing tool and library. - https://github.com/tsenart/vegeta
+
+ 5. Roadmap to becoming a Go developer in 2020 - https://github.com/Alikhll/golang-developer-roadmap
