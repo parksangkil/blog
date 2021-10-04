@@ -184,3 +184,6 @@ KUBERNETES CLIENTS AND DASHBOARDS: A COMPARISON
 
 Kubernetes secrets generator
  https://github.com/bbl/secretize
+
+ Kubernetes Ingress Deep Dive
+  https://luandy-4171.medium.com/kubernetes-ingress-deep-dive-275b0d42e9ba
