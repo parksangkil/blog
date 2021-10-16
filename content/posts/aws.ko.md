@@ -55,3 +55,6 @@ Amazon Builders' Library
 
 AWS Well-Architected
  https://aws.amazon.com/ko/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc
+
+Amazon Route53 Resolver
+ https://zigispace.net/m/1048
