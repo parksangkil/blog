@@ -187,3 +187,6 @@ Kubernetes secrets generator
 
  Kubernetes Ingress Deep Dive
   https://luandy-4171.medium.com/kubernetes-ingress-deep-dive-275b0d42e9ba
+
+Creating a production-quality Kubernetes Cluster in Ubuntu/Debian- step by step guide
+ https://arkdo.medium.com/creating-a-production-quality-kubernetes-cluster-in-debian-ubuntu-4f5fd349a4fb
