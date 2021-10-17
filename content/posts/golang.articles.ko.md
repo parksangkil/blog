@@ -46,3 +46,6 @@ Scheduling Background Tasks
 
 4 ways GO is just different
  https://medium.com/to-journal-to-dev/4-ways-go-is-just-different-7554bc61d8d7
+
+Forcefully Close TCP Connections in Golang
+ https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6

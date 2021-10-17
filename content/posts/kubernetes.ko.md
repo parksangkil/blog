@@ -190,3 +190,6 @@ Kubernetes secrets generator
 
 Creating a production-quality Kubernetes Cluster in Ubuntu/Debian- step by step guide
  https://arkdo.medium.com/creating-a-production-quality-kubernetes-cluster-in-debian-ubuntu-4f5fd349a4fb
+
+Kubernetes란?
+ https://cloud.google.com/learn/what-is-kubernetes
